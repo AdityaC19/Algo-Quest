@@ -1,6 +1,6 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
-        jewel = jewels.split()
+        #jewel = jewels.split()
         counter = 0
 
         for stone in stones:
