@@ -1,12 +1,12 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hmap = {}
+        hmap = set()
 
         for i in nums:
             if i in hmap:
                 return True
             else:
-                hmap[i] = 1
+                hmap.add(i)
         
         return False
 
