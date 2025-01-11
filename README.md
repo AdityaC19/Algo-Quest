@@ -5,6 +5,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaC19/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
