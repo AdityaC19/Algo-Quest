@@ -1,8 +1,11 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         n = len(nums)
-        counter = Counter(nums)
+        h = defaultdict(int)
+        
+        for i in nums:
+            h[i] +=1
 
         for i in nums:
-            if counter[i] > n//2:
+            if h[i] > n//2:
                 return i
