@@ -6,6 +6,4 @@ class Solution:
         for i in nums:
             h[i] +=1
 
-        for i in nums:
-            if h[i] > n//2:
-                return i
+        return max(h, key=h.get)
