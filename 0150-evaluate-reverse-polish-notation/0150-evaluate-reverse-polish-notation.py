@@ -4,11 +4,11 @@ class Solution:
         stk = []
         
         for i in tokens:
-            if i not in signs:
-                stk.append(i)
-            else:
+            if i in '+-*/':
                 b, a = stk.pop(), stk.pop()
                 res = str(int(eval(a + i + b)))
                 stk.append(res)
+            else:
+                stk.append(i)
         
         return int(stk[0])
