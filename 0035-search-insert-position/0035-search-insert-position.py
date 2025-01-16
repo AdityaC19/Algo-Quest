@@ -4,11 +4,6 @@ class Solution:
         l = 0
         r = n - 1
 
-        if target < nums[l]:
-            return 0
-        elif target > nums[r]:
-            return n
-
         while l <= r:
             m = l + ((r-l)//2)
 
@@ -19,7 +14,7 @@ class Solution:
             else:
                 r = m - 1
         
-        if l == m:
-            return l
+        if nums[m] < target:
+            return m+1
         else:
-            return r+1
+            return m
