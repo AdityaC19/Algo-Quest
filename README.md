@@ -118,6 +118,7 @@ A collection of LeetCode questions
 | ------- |
 | [0035-search-insert-position](https://github.com/AdityaC19/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaC19/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/AdityaC19/Algo-Quest/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 ## Greedy
 |  |
@@ -143,4 +144,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AdityaC19/Algo-Quest/tree/master/0155-min-stack) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AdityaC19/Algo-Quest/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
