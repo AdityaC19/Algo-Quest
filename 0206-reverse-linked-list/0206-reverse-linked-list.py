@@ -16,9 +16,4 @@ class Solution:
         
         return prev
 
-
-        
-        return head
-
-
         
