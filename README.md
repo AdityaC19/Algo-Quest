@@ -42,6 +42,7 @@ A collection of LeetCode questions
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
