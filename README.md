@@ -157,4 +157,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AdityaC19/Algo-Quest/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
