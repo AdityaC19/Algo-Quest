@@ -7,9 +7,9 @@ class Solution:
         for i in range(n):
             if nums[i] == 1:
                 length += 1
+                max_length = max(max_length, length)
             else: 
                 length = 0
-            max_length = max(max_length, length)
-        
+            
         return max_length
         
