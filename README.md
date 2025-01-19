@@ -23,6 +23,7 @@ A collection of LeetCode questions
 | [0228-summary-ranges](https://github.com/AdityaC19/Algo-Quest/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AdityaC19/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
@@ -189,4 +190,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaC19/Algo-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
