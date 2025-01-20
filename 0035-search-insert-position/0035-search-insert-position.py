@@ -14,7 +14,9 @@ class Solution:
             else:
                 r = m - 1
         
-        if nums[m] < target:
-            return m+1
-        else:
-            return m
+        return l
+        
+        # if nums[m] < target:
+        #     return m+1
+        # else:
+        #     return m
