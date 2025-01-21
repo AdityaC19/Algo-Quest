@@ -12,8 +12,6 @@ class Solution:
             h2[s2[i]] += 1
             h2[s2[i-n]] -= 1
 
-            if h2[s2[i-n]] == 0 :
-                del h2[s2[i-n]]
             if h1 == h2:
                 return True
             
