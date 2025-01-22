@@ -19,10 +19,9 @@ class Solution:
             for _ in range(len(q)):
                 node = q.popleft()
                 level.append(node.val)
-                for i in node.children: 
-                    q.append(i)
-                # if node.right: 
-                #     q.append(node.right)
+                if node.children:
+                    for i in node.children: 
+                        q.append(i)
             res.append(level)
         
         return res
