@@ -231,6 +231,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
