@@ -164,6 +164,7 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaC19/Algo-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaC19/Algo-Quest/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0104-maximum-depth-of-binary-tree) |
