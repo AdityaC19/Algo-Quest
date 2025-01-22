@@ -12,7 +12,9 @@ class Solution:
         ans = []
 
         
-        def _bfs(root, level):
+        def _bfs(root):
+            nonlocal level
+
             if not root:
                 return 0
 
@@ -29,5 +31,5 @@ class Solution:
                         q.append(node.right)
                 level += 1
 
-        _bfs(root, 0)
+        _bfs(root)
         return ans
