@@ -7,12 +7,13 @@ class Solution:
         
         heapq.heapify(nums)
 
-        res = [0] * n
-        for i in range(n):
-            minn = heapq.heappop(nums)
-            res[i] = minn
+        #res = [0] * n
+        for i in range(k-1):
+            heapq.heappop(nums)
+            #minn = heapq.heappop(nums)
+            #res[i] = minn
         
-        return -res[k-1]
+        return -heapq.heappop(nums)
         
         
 
