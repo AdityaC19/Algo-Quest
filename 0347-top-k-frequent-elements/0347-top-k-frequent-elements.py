@@ -1,29 +1,21 @@
-import heapq
+from collections import Counter
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        min_heap = []
-        h = Counter(nums)
+        n = len(nums)
+        counter = Counter(nums)
+        bucket = [0] * (n+1)
 
-        for key,val in h.items():
-            if len(min_heap) < k:
-                heapq.heappush(min_heap, (val,key))
+        for num, freq in counter.items():
+            if bucket[freq] == 0:
+                bucket[freq] = [num]
             else:
-                heapq.heappushpop(min_heap, (val,key))
+                bucket[freq].append(num)
         
-        return [h[1] for h in min_heap]
-            
+        res = []
+        for i in range(n, -1, -1):
+            if bucket[i] != 0:
+                res.extend(bucket[i])
+            if len(res) == k:
+                break
         
-   
-        # for i in range(len(nums)):
-        #     if nums[i] in h:
-        #         h[nums[i]] += 1
-        #     else:
-        #         h[nums[i]] = 1
-        
-
-        
-        # top_k = [key for key, _ in heapq.nlargest(k, h.items(), key=lambda x: x[1])]
-
-        # return top_k
-
-
+        return res
