@@ -4,20 +4,18 @@ class Solution:
         def distance(x):
             return x[0] * x[0] + x[1] * x[1]
         
-        min_heap = []
+        n = len(points)
+        
+        max_heap = []
         res = []
 
         for point in points:
-            heapq.heappush(min_heap, (distance(point),point))
-            
-        print(min_heap)
-        res = []
+            if len(max_heap) < k:
+                heapq.heappush(max_heap, (-distance(point),point))
+            else:
+                heapq.heappushpop(max_heap, (-distance(point),point))
 
-        while k:
-            res.append(heapq.heappop(min_heap))
-            k-=1
-
-        return [h[1] for h in res]
+        return [h[1] for h in max_heap]
 
 
         
