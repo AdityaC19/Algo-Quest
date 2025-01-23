@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -302,4 +303,8 @@ A collection of LeetCode questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
