@@ -349,6 +349,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AdityaC19/Algo-Quest/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/AdityaC19/Algo-Quest/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
