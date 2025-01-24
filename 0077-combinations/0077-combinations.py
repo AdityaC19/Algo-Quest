@@ -9,11 +9,14 @@ class Solution:
                 res.append(sol[:])
                 return
 
+            #limit till n
             if i > n:
                 return
 
+            #dont pick cond
             backtrack(i+1)
 
+            #pick cond
             sol.append(i)
             backtrack(i+1)
             sol.pop()
