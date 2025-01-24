@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaC19/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AdityaC19/Algo-Quest/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AdityaC19/Algo-Quest/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AdityaC19/Algo-Quest/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
