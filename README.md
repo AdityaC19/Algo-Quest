@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaC19/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AdityaC19/Algo-Quest/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/AdityaC19/Algo-Quest/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
