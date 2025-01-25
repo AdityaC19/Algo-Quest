@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaC19/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0100-same-tree) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions
 | [0046-permutations](https://github.com/AdityaC19/Algo-Quest/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AdityaC19/Algo-Quest/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
