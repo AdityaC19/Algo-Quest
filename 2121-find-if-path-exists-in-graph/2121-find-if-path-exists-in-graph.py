@@ -9,6 +9,7 @@ class Solution:
         if source == destination:
             return True
 
+        # Adjacency matrix with dict
         for u, v in edges:
             graph[u].append(v)
             graph[v].append(u)
@@ -16,19 +17,31 @@ class Solution:
         seen = set()
         seen.add(source)
 
-        def dfs(i):
-            if i == destination:
-                return True
+        stk = [source]
 
-            for nei_node in graph[i]:
+        while stk:
+            node = stk.pop()
+            if node == destination:
+                return True
+            for nei_node in graph[node]:
                 if nei_node not in seen:
                     seen.add(nei_node)
-                    if dfs(nei_node):
-                        return True
+                    stk.append(nei_node)
+        return False
+
+        # def dfs(i):
+        #     if i == destination:
+        #         return True
+
+        #     for nei_node in graph[i]:
+        #         if nei_node not in seen:
+        #             seen.add(nei_node)
+        #             if dfs(nei_node):
+        #                 return True
         
-            return False
+        #     return False
         
-        return dfs(source)
+        #return dfs(source)
 
 
 
