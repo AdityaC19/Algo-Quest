@@ -17,16 +17,16 @@ class Solution:
         seen = set()
         seen.add(source)
 
-        stk = [source]
+        q = deque([source])
 
-        while stk:
-            node = stk.pop()
+        while q:
+            node = q.popleft()
             if node == destination:
                 return True
             for nei_node in graph[node]:
                 if nei_node not in seen:
                     seen.add(nei_node)
-                    stk.append(nei_node)
+                    q.append(nei_node)
         return False
 
         # def dfs(i):
