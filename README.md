@@ -245,6 +245,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -373,4 +376,8 @@ A collection of LeetCode questions
 | ------- |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0090-subsets-ii) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
