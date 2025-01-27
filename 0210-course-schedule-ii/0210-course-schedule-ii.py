@@ -25,14 +25,16 @@ class Solution:
                     return False
 
             states[i] = VISITED
-            ans.append(i)  
+            ans.append(i) # append the node once its verified
             return True  
         
             
         # for i in range(numCourses):
         #     if dfs(i):
         #         pass
+        # return ans
         
+        #shorthand version of above 
         return ans if all(dfs(i) for i in range(numCourses)) else []
 
         
