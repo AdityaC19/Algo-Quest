@@ -9,11 +9,10 @@ class Solution:
             if i >= m or j >= n or i < 0 or j < 0 or grid[i][j] != '1':
                 return 
             
-            char = grid[i][j]
+            #char = grid[i][j]
             grid[i][j] = '0'
 
-            if dfs(i+1, j) or dfs(i, j+1) or dfs(i-1, j) or dfs(i, j-1):
-                return True
+            return dfs(i+1, j) or dfs(i, j+1) or dfs(i-1, j) or dfs(i, j-1)
 
         
         for i in range(m):
