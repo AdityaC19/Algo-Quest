@@ -6,38 +6,27 @@ class Solution:
             for v in nei:
                 g[u].append(v)
         
-        print(g)
-        
-        UNVISITED = 0
-        VISITING = 1
-        VISITED = 2
-        states = [UNVISITED] * len(graph)
-        ans = []
+        VISITING, VISITED = 1, 2
+        states = [0] * len(graph)
+        safe_nodes = []
 
         def dfs(i):
-            state = states[i]
-            if state == VISITED: return True
-            elif state == VISITING: return False
+            if states[i] == VISITING: return False
+            elif states[i] == VISITED: return True
 
             states[i] = VISITING
 
-            for nei_node in g[i]:
-                if not dfs(nei_node):
+            for nei in g[i]:
+                if not dfs(nei):
                     return False
             
             states[i] = VISITED
+            #safe_nodes.append(i)
             return True
         
         for i in range(len(graph)):
             if dfs(i):
-                ans.append(i) 
+                safe_nodes.append(i)
         
-        return ans
-
-
-
-
-
-        
-
+        return safe_nodes
         
