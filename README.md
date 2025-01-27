@@ -293,6 +293,7 @@ A collection of LeetCode questions
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -309,6 +310,7 @@ A collection of LeetCode questions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -392,9 +394,11 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
