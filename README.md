@@ -285,6 +285,7 @@ A collection of LeetCode questions
 | [0112-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
@@ -389,5 +391,10 @@ A collection of LeetCode questions
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
