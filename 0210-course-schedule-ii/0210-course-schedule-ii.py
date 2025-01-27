@@ -2,41 +2,33 @@ class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
 
-        for u, v in prerequisites:
+        for u,v in prerequisites:
             graph[u].append(v)
-        
-        print(graph)
 
-        UNVISITED = 0
-        VISITING = 1
-        VISITED = 2
-        states = [UNVISITED] * numCourses
-        ans = []
+        UNVISITED, VISITING, VISITED = 0, 1, 2
+        cache = [UNVISITED] * numCourses
+        order = []
 
         def dfs(i):
-            state = states[i]
-            if state == VISITED: return True # verified
-            elif state == VISITING: return False # in loop
+            state = cache[i]
+            if state == VISITING: return False
+            elif state == VISITED: return True
 
-            states[i] = VISITING
+            cache[i] = VISITING
 
-            for nei_node in graph[i]:    
-                if not dfs(nei_node):   # in loop
+            for nei_node in graph[i]:
+                if not dfs(nei_node):
                     return False
-
-            states[i] = VISITED
-            ans.append(i) # append the node once its verified
-            return True  
-        
             
-        # for i in range(numCourses):
-        #     if dfs(i):
-        #         pass
-        # return ans
+            cache[i] = VISITED
+            order.append(i)
+            return True
+            
         
-        #shorthand version of above 
-        return ans if all(dfs(i) for i in range(numCourses)) else []
+        for node in range(numCourses):
+            if not dfs(node):
+                return []
+        
+        return order
 
-        
-        
-        
+
