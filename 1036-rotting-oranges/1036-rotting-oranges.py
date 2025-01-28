@@ -25,38 +25,10 @@ class Solution:
                     if 0 <= r < m and 0 <= c < n and grid[r][c] == 1:
                         grid[r][c] = 2
                         fresh -= 1
-                        print(time, "popped", i,j, "neigh:", r, c, fresh)
                         if fresh == 0:
                             return time
 
                         q.append((r,c))
     
-        return time if fresh == 0 else -1
+        return -1
 
-
-
-        # while q:
-        #     node = q.popleft()
-        #     for nei in node.
-
-
-        # def dfs(i,j):
-        #     nonlocal time
-
-        #     if i < 0 or i >= m or j < 0 or j >= n or grid[i][j] == 0:
-        #         return 
-
-        #     elif grid[i][j] == 1:
-        #         pass
-                
-        #     else:
-        #         grid[i][j] == 2
-
-        #         dfs(i+1, j)
-        #         dfs(i, j+1)
-        #         dfs(i-1, j)
-        #         dfs(i, j-1)
-            
-
-
-        # return time
