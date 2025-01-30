@@ -48,6 +48,7 @@ A collection of LeetCode questions
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -331,6 +336,7 @@ A collection of LeetCode questions
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -376,6 +382,7 @@ A collection of LeetCode questions
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
+| [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
