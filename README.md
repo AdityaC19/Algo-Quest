@@ -116,6 +116,7 @@ A collection of LeetCode questions
 | [0013-roman-to-integer](https://github.com/AdityaC19/Algo-Quest/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaC19/Algo-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ A collection of LeetCode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdityaC19/Algo-Quest/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -443,4 +446,8 @@ A collection of LeetCode questions
 | ------- |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
