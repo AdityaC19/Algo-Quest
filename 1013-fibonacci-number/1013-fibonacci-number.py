@@ -7,13 +7,13 @@ class Solution:
         if n == 1:
             return 1
 
-        res[0] = 0
-        res[1] = 1
+        prev = 0
+        cur = 1
 
         for i in range(2, n+1):
-            res[i] = res[i-1] + res[i-2]
+            prev, cur = cur, prev+cur
         
-        return res[n]
+        return cur
 
         
 
