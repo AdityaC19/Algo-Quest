@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaC19/Algo-Quest/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0064-minimum-path-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AdityaC19/Algo-Quest/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0064-minimum-path-sum) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
