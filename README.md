@@ -116,6 +116,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaC19/Algo-Quest/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaC19/Algo-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaC19/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
