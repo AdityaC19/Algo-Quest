@@ -1,27 +1,20 @@
-import heapq
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
-        min_heap = [(grid[0][0],0,0)]
-        min_path = 0
-        seen = defaultdict(lambda: float('inf'))
-        seen[(0, 0)] = grid[0][0]
 
-        while min_heap:
-            summ, i, j = heapq.heappop(min_heap)
-            
-            if (i, j) == (m-1, n-1):
-                return summ
+        dp = [[0] * n for _ in range(m)]
 
-            for r, c in [(i+1, j), (i, j+1)]:
-                if 0 <= r < m and 0 <= c < n:
-                    min_path = summ + grid[r][c]
-                    if min_path < seen[(r,c)]:
-                        seen[(r,c)] = min_path
-                        heapq.heappush(min_heap, (min_path, r, c))
+        dp[0][0] = grid[0][0]
 
-        
-        print(seen)
+        for i in range(1,m):
+            dp[i][0] = dp[i-1][0] + grid[i][0]
+        for j in range(1,n):
+            dp[0][j] = dp[0][j-1] + grid[0][j]
+    
+        for i in range(1, m):
+            for j in range(1, n):
+                dp[i][j] = min(dp[i-1][j], dp[i][j-1]) + grid[i][j]
+        #print(dp)
 
-
+        return dp[m-1][n-1]
         
