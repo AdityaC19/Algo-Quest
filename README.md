@@ -55,6 +55,7 @@ A collection of LeetCode questions
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
+| [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
