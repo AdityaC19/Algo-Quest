@@ -98,6 +98,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/AdityaC19/Algo-Quest/tree/master/0782-jewels-and-stones) |
+| [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -153,6 +154,7 @@ A collection of LeetCode questions
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
