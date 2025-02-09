@@ -92,6 +92,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
