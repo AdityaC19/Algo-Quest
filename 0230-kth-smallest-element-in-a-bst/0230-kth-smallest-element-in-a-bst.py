@@ -4,34 +4,19 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         ans = []
-        def helper(root):
-            if not root:
+        def dfs(node):
+            if not node:
                 return 0
             
-            left = helper(root.left)
-            ans.append(root.val)
-            right = helper(root.right)
-
-        helper(root)
+            dfs(node.left)
+            ans.append(node.val)
+            dfs(node.right)
+        
+        dfs(root)
         return ans[k-1]
-        
-        
-        # q = deque([root])
-        # ans = []
 
-        # while q:
-        #     cur_min = float('inf')
-        #     for _ in range(len(q)):
-        #         node = q.popleft()
-        #         if node.val < cur_min:
-        #             cur_min = node.val
-        #         #ans.append(node.val)
-        #         if node.left: q.append(node.left)
-        #         if node.right: q.append(node.right)
-        #     ans.append(cur_min)        
 
         
