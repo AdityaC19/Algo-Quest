@@ -8,10 +8,7 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         def helper(root, p, q):
-            if not root:
-                return
-
-            if p == root or q == root:
+            if not root or p == root or q == root:
                 return root
             
             left = helper(root.left, p, q)
