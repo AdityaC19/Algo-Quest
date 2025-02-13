@@ -20,7 +20,6 @@ class Solution:
             for _ in range(len(q)):
                 node = q.popleft()
                 curr_level.append(node.val)
-                print(curr_level, flag)
                 if node.left: 
                     q.append(node.left)
                 if node.right:
