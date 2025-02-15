@@ -60,6 +60,7 @@ A collection of LeetCode questions
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions
 | [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1894-merge-strings-alternately) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -447,12 +451,14 @@ A collection of LeetCode questions
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
