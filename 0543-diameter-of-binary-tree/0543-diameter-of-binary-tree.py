@@ -7,13 +7,12 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         max_length = [0]
-        
-        def dfs(root):
-            if not root:
+        def dfs(node):
+            if not node:
                 return 0
             
-            left_tree = dfs(root.left)
-            right_tree = dfs(root.right)
+            left_tree = dfs(node.left)
+            right_tree = dfs(node.right)
             diameter = left_tree + right_tree
             max_length[0] = max(max_length[0], diameter)
 
@@ -22,5 +21,4 @@ class Solution:
         dfs(root)
         return max_length[0]
 
-            
-            
+        
