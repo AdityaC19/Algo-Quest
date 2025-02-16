@@ -1,9 +1,9 @@
 import heapq
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
-        max_heap = []
+        n = len(stones)
 
-        for i in range(len(stones)):
+        for i in range(n):
             stones[i] = -stones[i]
         
         heapq.heapify(stones)
@@ -18,9 +18,4 @@ class Solution:
             return -heapq.heappop(stones)
         else:
             return 0
-
-
-
-
-
-    
+        
