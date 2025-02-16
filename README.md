@@ -61,6 +61,7 @@ A collection of LeetCode questions
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Simulation
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Quickselect
 |  |
 | ------- |
