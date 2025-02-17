@@ -10,28 +10,26 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    def mapListToValues(self, head):
+        values = []
+        while head is not None:
+            values.append(head.val)
+            head = head.next
+        return values
+
     def sortedListToBST(self, head: Optional[ListNode]) -> Optional[TreeNode]:
-        if not head:
-            return None
-        
-        slow = head
-        fast = head
-        prev = None
+        arr = self.mapListToValues(head)
 
-        while(fast != None and fast.next != None):
-            prev = slow
-            slow = slow.next
-            fast = fast.next.next
-        
-        root = TreeNode(slow.val)
+        def dfs(left, right):
+            if left > right:
+                return None
 
-        if prev is not None:
-            prev.next = None
-            root.left = self.sortedListToBST(head)
-        
-        root.right = self.sortedListToBST(slow.next)
-        return root
-        
+            mid = left + (right - left) // 2
+            root = TreeNode(arr[mid])
+            root.left = dfs(left, mid-1)
+            root.right = dfs(mid+1, right)
 
-            
-            
+            return root
+        
+        return dfs(0, len(arr)-1)
+
