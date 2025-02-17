@@ -3,27 +3,20 @@ class Solution:
         res = []
         sol = []
 
-        #i=1
-        def backtrack(i):
+        def backtracking(i):
             if len(sol) == k:
-                res.append(sol[:])
-                return
+                return res.append(sol[:])
 
-            #limit till n
-            if i > n:
-                return
-
-            #dont pick cond
-            backtrack(i+1)
-
-            #pick cond
-            sol.append(i)
-            backtrack(i+1)
-            sol.pop()
-            
-        backtrack(1)
+            for x in range(i,n+1):
+                sol.append(x)
+                backtracking(x+1)
+                sol.pop()
+                    
+        backtracking(1)
         return res
 
 
 
 
+            
+            
