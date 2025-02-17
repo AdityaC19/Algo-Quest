@@ -7,16 +7,16 @@
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
 
-        def buildTree(subarray):
-            if not subarray:
+        def buildTree(subarray, start, end):
+            if start > end:
                 return None
 
-            mid = len(subarray) // 2 
+            mid = (start + end) // 2 
 
             root = TreeNode(subarray[mid])
-            root.left = buildTree(subarray[:mid])
-            root.right = buildTree(subarray[mid+1:])
+            root.left = buildTree(subarray, start, mid-1)
+            root.right = buildTree(subarray, mid+1, end)
 
             return root
         
-        return buildTree(nums)
+        return buildTree(nums, 0, len(nums)-1)
