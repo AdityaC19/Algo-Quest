@@ -5,7 +5,7 @@ class Solution:
         sol = []
 
         def backtracking(i, curSum):
-            if i >= n:
+            if i >= n or curSum > target:
                 return 
 
             if curSum == target:
