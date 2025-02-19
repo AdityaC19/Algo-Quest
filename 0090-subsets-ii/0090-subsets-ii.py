@@ -1,21 +1,24 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        res = set()
+        n = len(nums)
+        res = []
         sol = []
 
         nums.sort()
 
         def backtracking(i):
             if i == len(nums):
-                return res.add(tuple(sol[:]))
-            
-            backtracking(i+1)
+                return res.append(sol[:])
 
-            sol.append(nums[i])
+            sol.append(nums[i]) 
             backtracking(i+1)
             sol.pop()
 
-            
+            while i+1 < n and nums[i] == nums[i+1]:
+                i += 1
+
+            backtracking(i+1)
+
         
         backtracking(0)
-        return list(res)
+        return res
