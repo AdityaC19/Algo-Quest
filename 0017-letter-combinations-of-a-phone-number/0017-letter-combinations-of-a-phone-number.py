@@ -15,19 +15,20 @@ class Solution:
         sol = []
         n = len(digits)
 
-        def backtrack(i):
+        def backtracking(i):
             if not digits:
-                return 
-
-            if len(sol) == n:
-                res.append(''.join(sol[:]))
-                return
+                return []
             
-            for char in keyboard[digits[i]]:
-                sol.append(char)
-                backtrack(i+1)
+            if i == n:
+                return res.append(''.join(sol[:]))
+            
+            for x in keyboard[digits[i]]:
+                sol.append(x)
+                backtracking(i+1)
                 sol.pop()
-        
-        backtrack(0)
+                
+        backtracking(0)
         return res
 
+
+        
