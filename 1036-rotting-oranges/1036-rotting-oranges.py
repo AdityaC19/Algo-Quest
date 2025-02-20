@@ -23,10 +23,10 @@ class Solution:
             for _ in range(len(q)):
                 i, j = q.popleft()
                 for r, c in [(i+1, j), (i, j+1), (i-1, j), (i, j-1)]:
-                    if 0 <= r < m and 0 <= c < n and grid[r][c] == 1:
+                    if 0 <= r < m and 0 <= c < n and grid[r][c] == 1 and (r,c) not in seen:
                         grid[r][c] = 2
                         #print(grid[r][c])
-                        print(fresh_oranges)
+                        #print(fresh_oranges)
                         fresh_oranges -= 1
 
                         if fresh_oranges == 0:
