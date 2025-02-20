@@ -96,6 +96,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaC19/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AdityaC19/Algo-Quest/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
