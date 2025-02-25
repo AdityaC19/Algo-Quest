@@ -1,34 +1,34 @@
+from collections import deque
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
+        n = numCourses
+        indegree = [0] * n
 
-        for u,v in prerequisites:
-            graph[u].append(v)
+        for u, v in prerequisites:
+            graph[v].append(u)
+            indegree[u] += 1
 
-        UNVISITED, VISITING, VISITED = 0, 1, 2
-        cache = [UNVISITED] * numCourses
-        order = []
+        q = deque()
 
-        def dfs(i):
-            state = cache[i]
-            if state == VISITING: return False
-            elif state == VISITED: return True
-
-            cache[i] = VISITING
-
-            for nei_node in graph[i]:
-                if not dfs(nei_node):
-                    return False
-            
-            cache[i] = VISITED
-            order.append(i)
-            return True
-            
+        for i in range(n):
+            if indegree[i] == 0:
+                q.append(i)
         
-        for node in range(numCourses):
-            if not dfs(node):
-                return []
+        topo = []
+
+        while q:
+            node = q.popleft()
+            topo.append(node)
+            for nei_node in graph[node]:
+                indegree[nei_node] -= 1
+                if indegree[nei_node] == 0:
+                    q.append(nei_node)
         
-        return order
+        if len(topo) == n:
+            return topo
+        else:
+            return []
 
 
+       
