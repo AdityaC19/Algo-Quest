@@ -47,3 +47,45 @@ class Solution:
         #             heapq.heappush(min_heap, (nei_price+price, nei))
         
         # print(seen)
+
+
+
+# from collections import defaultdict, deque
+# from typing import List
+
+# class Solution:
+#     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+#         graph = defaultdict(list)
+
+#         for u, v, price in flights:
+#             graph[u].append((v, price))
+        
+#         stk = []
+#         def topoSort(node):
+#             visited[node] = 1
+            
+#             for nei in graph[node]:
+#                 v = nei[0]
+#                 if not visited[v]:
+#                     topoSort(v)
+
+#             stk.append(node)
+
+#         visited = [0] * n
+#         for i in range(n):
+#             if not visited[i]:
+#                 topoSort(i)
+        
+#         dist = [float('inf')] * n
+#         dist[src] = 0  # Source node distance is 0
+
+#         while stk:
+#             node = stk.pop()
+
+#             if dist[node] != float('inf'):  
+#                 for nei in graph[node]:
+#                     v, price = nei
+#                     if dist[node] + price < dist[v]:
+#                         dist[v] = dist[node] + price
+
+#         return dist[dst] if dist[dst] != float('inf') else -1
