@@ -18,7 +18,6 @@ class Solution:
             for j in range(n):
                 if (i, j) not in seen and grid[i][j] == '1':
                     count += 1 
-                    seen.add((i, j))
                     bfs(i, j)
 
         return count
