@@ -5,27 +5,30 @@ class Solution:
         for u, v in prerequisites:
             graph[u].append(v)
         
-        visited = [0] * numCourses
-        
+        visited = [False] * numCourses
+        path_visited = [False] * numCourses
 
-        # DFS to detect cycle
-        def dfs(i):
-            if visited[i] == 1:  # cycle detected
+        def dfs(node):
+            if path_visited[node]:    # Cycle detected
                 return True
-            if visited[i] == 2:
+            elif visited[node]:       # ALready checked, no cycle
                 return False
-            
-            visited[i] = 1
 
-            for nei in graph[i]:
-                if dfs(nei):
+            visited[node] = True
+            path_visited[node] = True 
+
+            for nei in graph[node]:
+                #if not visited[nei]:
+                if dfs(nei):    # if cycle detected, propogate up
                     return True
             
-            visited[i] = 2
+            path_visited[node] = False  # backtrack
             return False
         
         for i in range(numCourses):
-            if dfs(i):
-                return False
+            if not visited[i]:
+                if dfs(i):
+                    return False
         
         return True
+        
