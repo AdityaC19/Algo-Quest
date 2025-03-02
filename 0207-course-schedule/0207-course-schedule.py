@@ -1,34 +1,34 @@
+from collections import deque
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         graph = defaultdict(list)
+        n = numCourses
+        indeg = [0] * n
 
-        for u, v in prerequisites:
-            graph[u].append(v)
+        for u,v in prerequisites:
+            graph[v].append(u)
+            indeg[u] += 1
         
-        visited = [False] * numCourses
-        path_visited = [False] * numCourses
+        q = deque()
 
-        def dfs(node):
-            if path_visited[node]:    # Cycle detected
-                return True
-            elif visited[node]:       # ALready checked, no cycle
-                return False
-
-            visited[node] = True
-            path_visited[node] = True 
+        for i in range(n):
+            if indeg[i] == 0:
+                q.append(i)
+        
+        order = []
+        
+        while q:
+            node = q.popleft()
+            order.append(node)
 
             for nei in graph[node]:
-                #if not visited[nei]:
-                if dfs(nei):    # if cycle detected, propogate up
-                    return True
-            
-            path_visited[node] = False  # backtrack
+                indeg[nei] -= 1
+                if indeg[nei] == 0:
+                    q.append(nei)
+
+        if len(order) < n:
             return False
-        
-        for i in range(numCourses):
-            if not visited[i]:
-                if dfs(i):
-                    return False
-        
         return True
+
+
         
