@@ -4,32 +4,28 @@ class Solution:
 
         for u, v in prerequisites:
             graph[u].append(v)
-
-        UNVISITED = 0
-        VISITING = 1
-        VISITED = 2
-        states = [UNVISITED] * numCourses
-
-        def dfs(i):
-            state = states[i]
-            if state == VISITED: return True
-            elif state == VISITING: return False
-
-            states[i] = VISITING
-
-            for nei_node in graph[i]:    
-                if not dfs(nei_node):
-                    return False
-
-            states[i] = VISITED
-            return True  
         
+        visited = [0] * numCourses
+        
+
+        # DFS to detect cycle
+        def dfs(i):
+            if visited[i] == 1:  # cycle detected
+                return True
+            if visited[i] == 2:
+                return False
             
+            visited[i] = 1
+
+            for nei in graph[i]:
+                if dfs(nei):
+                    return True
+            
+            visited[i] = 2
+            return False
+        
         for i in range(numCourses):
-            if not dfs(i):
+            if dfs(i):
                 return False
         
         return True
-        
-        
-    
