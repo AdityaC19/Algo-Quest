@@ -2,15 +2,19 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         cleaned_str = ''.join(char for char in s.lower() if char.isalnum())
         
-        L = 0
-        R = len(cleaned_str)-1
+        n = len(cleaned_str)
 
-        while L <= R:
-            if cleaned_str[L] != cleaned_str[R]:
+        def check(i):
+            if i >= n//2:
+                return True
+            
+            if cleaned_str[i] != cleaned_str[n-i-1]:
                 return False
-            L+=1
-            R-=1
-        return True
+            
+            return check(i+1)
+        
+        return check(0)
+
 
 
         
