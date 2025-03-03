@@ -326,6 +326,7 @@ A collection of LeetCode questions
 | [0130-surrounded-regions](https://github.com/AdityaC19/Algo-Quest/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
