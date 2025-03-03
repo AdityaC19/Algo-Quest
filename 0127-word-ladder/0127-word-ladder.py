@@ -17,8 +17,6 @@ class Solution:
                 for i in range(len(word)):
                     for ch in 'abcdefghijklmnopqrstuvwxyz':
                         tempWord = word[:i] + ch + word[i+1:]
-                        if tempWord == endWord:
-                            return steps + 1
                         if tempWord in wordSet:
                             wordSet.remove(tempWord)
                             q.append(tempWord)
