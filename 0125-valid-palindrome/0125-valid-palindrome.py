@@ -4,17 +4,21 @@ class Solution:
         
         n = len(cleaned_str)
 
-        def check(i):
-            if i >= n//2:
-                return True
-            
-            if cleaned_str[i] != cleaned_str[n-i-1]:
+        l = 0
+        r = n-1
+
+        while l <= r:
+            if cleaned_str[l] != cleaned_str[r]:
                 return False
             
-            return check(i+1)
+            l += 1
+            r -= 1
         
-        return check(0)
+        return True
 
+
+
+        
 
 
         
