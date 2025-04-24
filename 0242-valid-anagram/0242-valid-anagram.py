@@ -1,20 +1,26 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        d = defaultdict(int)
+        smap = Counter(s)
 
         if len(s) != len(t): return False
 
-        for i in s:
-            d[i] += 1
-        
         for i in t:
-            if i in d and d[i] == 1:
-                del d[i]
-            elif i in d:
-                d[i] -= 1
+            if i in smap and smap[i] == 1:
+                del smap[i]
+            elif i in smap:
+                smap[i] -= 1
             else:
                 return False
         
-        return True if len(d) == 0 else False
+        return True if len(smap) == 0 else False
+
+                      
+            
+            
+
+        
         
 
+        
+
+        
