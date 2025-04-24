@@ -2,23 +2,23 @@ import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         min_heap = []
-        h = defaultdict(int)
+        hmap = Counter(nums)
 
-        for num in nums:
-            if num in h:
-                h[num] += 1
-            else:
-                h[num] = 1
-
-        for key, val in h.items():
+        for key, val in hmap.items():
             if len(min_heap) < k:
-                heapq.heappush(min_heap, (val,key))
+                heapq.heappush(min_heap, (val, key))
             else:
-                heapq.heappushpop(min_heap, (val,key))
+                heapq.heappushpop(min_heap, (val, key))
+        
+        return [hmap[1] for hmap in min_heap]
+            
 
-                    
-        return [h[1] for h in min_heap]
 
+
+
+
+
+ 
 
 
 
