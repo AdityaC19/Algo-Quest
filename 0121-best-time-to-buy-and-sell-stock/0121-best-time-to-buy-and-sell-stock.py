@@ -1,13 +1,12 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        maxP = float('-inf')
         lowest = prices[0]
+        maxP = float('-inf')
 
         for price in prices:
             if price < lowest:
                 lowest = price
             diff = price - lowest
-            #print(diff, maxP)
             if diff > maxP:
                 maxP = diff
         
@@ -15,5 +14,4 @@ class Solution:
             return maxP
         else:
             return 0
-
         
