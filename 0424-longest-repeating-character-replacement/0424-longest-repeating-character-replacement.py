@@ -1,24 +1,20 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        n = len(s)
-        max_w = 0
+        hmap = defaultdict(int)
+        maxFreq = 0
         l = 0
-        max_freq = 0
-        hashmap = {}
+        max_len = 0
 
-        for r in range(n):
-            hashmap[s[r]] = hashmap.get(s[r], 0) + 1
-            w = (r-l)+1
-            max_freq =  max(max_freq, hashmap[s[r]])
-            while w - max_freq > k:
-                hashmap[s[l]] -= 1
+        for r in range(len(s)):
+            hmap[s[r]] += 1
+            maxFreq = max(maxFreq, hmap[s[r]])
+            while (r-l+1) - maxFreq > k:
+                hmap[s[l]] -= 1
                 l += 1
-                w = (r - l) + 1
+            w = (r-l) + 1
+            max_len = max(max_len, w)
         
-            max_w = max(max_w, w)
-        return max_w
+        return max_len
 
-
-            
 
         
