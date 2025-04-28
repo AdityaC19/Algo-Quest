@@ -13,9 +13,11 @@ class Solution:
             s2 = heapq.heappop(stones)
 
             heapq.heappush(stones, s1-s2)
-
+        
         if len(stones) == 1:
             return -heapq.heappop(stones)
         else:
             return 0
+        
+
         
