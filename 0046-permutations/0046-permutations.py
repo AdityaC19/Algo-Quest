@@ -5,7 +5,7 @@ class Solution:
         n = len(nums)
 
         def backtracking(i):
-            if i == n:
+            if len(sol) == n:
                 return res.append(sol.copy())
 
             for num in nums:
