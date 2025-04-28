@@ -6,8 +6,6 @@
 #         self.right = right
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        decision = [False]
-        
         def dfs(node, curSum):
             if not node:
                 return False
@@ -18,6 +16,7 @@ class Solution:
                 return curSum == targetSum
             
             return dfs(node.left, curSum) or dfs(node.right, curSum) 
-            
+        
         return dfs(root, 0)
+
         
