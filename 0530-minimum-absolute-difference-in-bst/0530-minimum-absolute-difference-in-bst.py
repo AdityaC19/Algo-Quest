@@ -20,9 +20,7 @@ class Solution:
 
         min_diff = float('inf')
         for i in range(len(ans)-1):
-            diff = abs(ans[i]-ans[i+1])
-            if diff < min_diff:
-                min_diff = diff
+            min_diff = min(min_diff, abs(ans[i]- ans[i+1]))
             
         return min_diff
 
