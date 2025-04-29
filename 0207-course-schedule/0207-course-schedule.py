@@ -1,35 +1,25 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         graph = defaultdict(list)
+        indeg = [0] * numCourses
 
         for u, v in prerequisites:
-            graph[u].append(v)
+            graph[v].append(u)
+            indeg[u] += 1
         
-        visited = [0] * numCourses
-        #path_visited = [False] * numCourses
-
-        def dfs(node):
-            if visited[node] == 2: return False
-            elif visited[node] == 1: return True
-
-            visited[node] = 1
-            #path_visited[node] = True
-
+        q = deque(i for i in range(numCourses) if indeg[i] == 0)
+        res = []
+        
+        while q:
+            node = q.popleft()
+            res.append(node)
             for nei_node in graph[node]:
-                if dfs(nei_node):
-                    return True
-
-            
-            visited[node] = 2
-            return False
+                indeg[nei_node] -= 1
+                if indeg[nei_node] == 0:
+                    q.append(nei_node)
         
-        for i in range(numCourses):
-            if not visited[i]:
-                if dfs(i):
-                    return False
-        
-        return True
-            
+        return False if len(res) < numCourses else True
 
-            
-                    
+
+        
+        
