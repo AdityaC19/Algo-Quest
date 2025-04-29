@@ -5,23 +5,22 @@ class Solution:
         for u, v in prerequisites:
             graph[u].append(v)
         
-        visited = [False] * numCourses
-        path_visited = [False] * numCourses
+        visited = [0] * numCourses
+        #path_visited = [False] * numCourses
 
         def dfs(node):
-            if visited[node]: return False
-            elif path_visited[node]: return True
+            if visited[node] == 2: return False
+            elif visited[node] == 1: return True
 
-            visited[node] = True
-            path_visited[node] = True
+            visited[node] = 1
+            #path_visited[node] = True
 
             for nei_node in graph[node]:
                 if dfs(nei_node):
                     return True
-                elif path_visited[nei_node]:
-                    return True
+
             
-            path_visited[node] = False
+            visited[node] = 2
             return False
         
         for i in range(numCourses):
