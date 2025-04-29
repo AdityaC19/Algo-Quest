@@ -1,34 +1,36 @@
-from collections import deque
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         graph = defaultdict(list)
-        n = numCourses
-        indeg = [0] * n
 
-        for u,v in prerequisites:
-            graph[v].append(u)
-            indeg[u] += 1
+        for u, v in prerequisites:
+            graph[u].append(v)
         
-        q = deque()
+        visited = [False] * numCourses
+        path_visited = [False] * numCourses
 
-        for i in range(n):
-            if indeg[i] == 0:
-                q.append(i)
-        
-        order = []
-        
-        while q:
-            node = q.popleft()
-            order.append(node)
+        def dfs(node):
+            if visited[node]: return False
+            elif path_visited[node]: return True
 
-            for nei in graph[node]:
-                indeg[nei] -= 1
-                if indeg[nei] == 0:
-                    q.append(nei)
+            visited[node] = True
+            path_visited[node] = True
 
-        if len(order) < n:
+            for nei_node in graph[node]:
+                if dfs(nei_node):
+                    return True
+                elif path_visited[nei_node]:
+                    return True
+            
+            path_visited[node] = False
             return False
-        return True
-
-
         
+        for i in range(numCourses):
+            if not visited[i]:
+                if dfs(i):
+                    return False
+        
+        return True
+            
+
+            
+                    
