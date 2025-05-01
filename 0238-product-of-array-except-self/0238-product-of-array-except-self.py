@@ -6,7 +6,7 @@ class Solution:
         result = [1]*n
 
         for i in range(n):
-            result[i] = prefix
+            result[i] *= prefix
             prefix *= nums[i]
         for i in range(n-1,-1,-1):
             result[i] *= postfix
