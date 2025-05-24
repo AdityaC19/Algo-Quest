@@ -8,17 +8,19 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
 
-        def dfs(i):
-            if i == destination:
+        q = deque([source])
+
+        while q:
+            node = q.popleft()
+            if node == destination:
                 return True
-            
-            for nei_node in graph[i]:
+            for nei_node in graph[node]:
                 if nei_node not in seen:
                     seen.add(nei_node)
-                    if dfs(nei_node):
-                        return True
-            return False
+                    q.append(nei_node)
         
-        return dfs(source)
+        return False
+
+    
         
 
