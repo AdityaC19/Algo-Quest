@@ -7,9 +7,10 @@ class Solution:
             return 0
         
         q = deque([beginWord])
-        steps = 1
+        steps = 0
 
         while q:
+            steps += 1
             for _ in range(len(q)):
                 word = q.popleft()
                 if word == endWord:
@@ -20,7 +21,7 @@ class Solution:
                         if tempWord in wordSet:
                             wordSet.remove(tempWord)
                             q.append(tempWord)
-            steps += 1
+            
         
         return 0
                         
