@@ -7,7 +7,7 @@ class Solution:
             return 0
         
         q = deque([beginWord])
-        steps = 1  # beginWord is counted as the first step
+        steps = 1
 
         while q:
             for _ in range(len(q)):
@@ -21,5 +21,7 @@ class Solution:
                             wordSet.remove(tempWord)
                             q.append(tempWord)
             steps += 1
-
+        
         return 0
+                        
+
