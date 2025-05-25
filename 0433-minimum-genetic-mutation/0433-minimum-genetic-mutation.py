@@ -5,6 +5,9 @@ class Solution:
         seen = set([startGene])
         steps = 0
 
+        if endGene not in bankset:
+            return -1
+
         while q:
             for _ in range(len(q)):
                 word = q.popleft()
