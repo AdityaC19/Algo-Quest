@@ -14,7 +14,7 @@ class Solution:
                 if word == endGene:
                     return steps
                 for i in range(len(word)):
-                    for ch in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
+                    for ch in 'ACGT':
                         temp = word[:i] + ch + word[i+1:]
                         #print(temp)
                         if temp in bankset and temp not in seen:
