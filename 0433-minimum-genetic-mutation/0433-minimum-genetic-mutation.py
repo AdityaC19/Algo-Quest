@@ -14,12 +14,11 @@ class Solution:
                 if word == endGene:
                     return steps
                 for i in range(len(word)):
-                    for ch in 'ACGT':
-                        temp = word[:i] + ch + word[i+1:]
-                        #print(temp)
-                        if temp in bankset and temp not in seen:
-                            q.append(temp)
-                            seen.add(temp)
+                    for ch in 'ACGT':   # only check for these gene choices
+                        mutation = word[:i] + ch + word[i+1:]
+                        if mutation in bankset and mutation not in seen:
+                            q.append(mutation)
+                            seen.add(mutation)
             steps += 1
         
         return -1
