@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions
 | [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
@@ -440,6 +445,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
@@ -505,6 +511,7 @@ A collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
