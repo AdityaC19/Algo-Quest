@@ -1,18 +1,18 @@
 class Solution:
     def findItinerary(self, tickets: List[List[str]]) -> List[str]:
         graph = defaultdict(list)
+
+        for u, v in sorted(tickets, reverse = True):
+            graph[u].append(v)
+
         
-        for src, dst in sorted(tickets, reverse=True):
-            graph[src].append(dst)
-        
-        #print(graph)
-            
         itinerary = []
+        
         def dfs(node):
             while graph[node]:
                 dfs(graph[node].pop())
             itinerary.append(node)
         
-        dfs("JFK")
+        dfs('JFK')
         
-        return itinerary[::-1]
+        return itinerary [::-1]
