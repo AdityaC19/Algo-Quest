@@ -402,6 +402,7 @@ A collection of LeetCode questions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/AdityaC19/Algo-Quest/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0508-most-frequent-subtree-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/AdityaC19/Algo-Quest/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
@@ -599,4 +601,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AdityaC19/Algo-Quest/tree/master/0146-lru-cache) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AdityaC19/Algo-Quest/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
