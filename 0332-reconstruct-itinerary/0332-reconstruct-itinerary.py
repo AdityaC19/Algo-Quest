@@ -5,7 +5,7 @@ class Solution:
         for src, dst in sorted(tickets, reverse=True):
             graph[src].append(dst)
         
-        print(graph)
+        #print(graph)
             
         itinerary = []
         def dfs(node):
