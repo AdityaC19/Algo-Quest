@@ -34,6 +34,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaC19/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdityaC19/Algo-Quest/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaC19/Algo-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AdityaC19/Algo-Quest/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AdityaC19/Algo-Quest/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdityaC19/Algo-Quest/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityaC19/Algo-Quest/tree/master/0146-lru-cache) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaC19/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AdityaC19/Algo-Quest/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AdityaC19/Algo-Quest/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0213-house-robber-ii) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdityaC19/Algo-Quest/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -602,6 +607,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
