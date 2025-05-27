@@ -1,19 +1,27 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        n = len(s)
-        dp = [False] * (n+1)
-        dp[0] = True
-  
-        max_len = max(len(word) for word in wordDict)
         word_set = set(wordDict)
+        n = len(s)
+        memo = {}
 
-        for i in range(1, n+1):
-            for j in range(max(0, i - max_len), i):
-                if dp[j] and s[j:i] in word_set:
-                    dp[i] = True
-                    break
+        def dfs(l):
+            if l == n:
+                return True 
+            
+            if l in memo:
+                return memo[l]
 
-        return dp[n]
+            for r in range(l + 1, n + 1):
+                if s[l:r] in word_set:
+                    if dfs(r):  
+                        memo[l] = True  
+                        return True
+            
+            memo[l] = False
+            
+            return False 
+
+        return dfs(0)
 
         # while l <= r:
         #     if s[l:r] in wordDict:
