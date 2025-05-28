@@ -1,24 +1,13 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
         n = len(nums)
-        memo = {}
 
-        @cache
-        def dfs(i):
-            if i >= n:
+        farthest = 0
+        for i in range(n):
+            if i > farthest:
                 return False
-            
-            if i == n-1:
-                return True
-            
-            for x in range(1,nums[i]+1):
-                if dfs(i+x):
-                    return True
-            
-            return False
+            farthest = max(farthest, i + nums[i])
         
-        return dfs(0)
-
-
+        return True
 
         
