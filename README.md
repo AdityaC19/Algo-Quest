@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/AdityaC19/Algo-Quest/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
