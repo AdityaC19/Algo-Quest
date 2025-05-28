@@ -50,6 +50,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/AdityaC19/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/AdityaC19/Algo-Quest/tree/master/0485-max-consecutive-ones) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 ## Stack
 |  |
 | ------- |
