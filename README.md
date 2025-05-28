@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaC19/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/AdityaC19/Algo-Quest/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0209-minimum-size-subarray-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AdityaC19/Algo-Quest/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/AdityaC19/Algo-Quest/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions
 | [0074-search-a-2d-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AdityaC19/Algo-Quest/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
