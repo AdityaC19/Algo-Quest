@@ -1,21 +1,13 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
-        res = []
-        ans = []
+        dp = [0] * (amount+1)
+        dp[0] = 1
 
-        @cache
-        def dfs(i, curSum):
-            if curSum > amount or i == len(coins):
-                return 0
-            
-            if curSum == amount:
-                return 1 
-            
-            take = dfs(i, curSum + coins[i])
-            skip = dfs(i+1, curSum)
-            return take + skip
+        for coin in coins:
+            for a in range(coin, amount + 1):
+                dp[a] += dp[a - coin]
         
-        return dfs(0, 0)
-
+        return dp[amount]
+        
 
         
