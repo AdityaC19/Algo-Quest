@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/AdityaC19/Algo-Quest/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0643-maximum-average-subarray-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions
 | [0113-path-sum-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
