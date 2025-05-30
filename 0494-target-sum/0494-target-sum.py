@@ -15,7 +15,6 @@ class Solution:
 
             result = add + sub
             memo[(i, curSum)] = result
-            return result
+            return memo[(i, curSum)]
             
-        
         return dfs(0,0)
