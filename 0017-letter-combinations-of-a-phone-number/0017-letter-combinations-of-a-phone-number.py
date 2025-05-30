@@ -13,22 +13,19 @@ class Solution:
         
         res = []
         sol = []
-        n = len(digits)
 
-        def backtracking(i):
-            if not digits:
-                return []
-            
-            if i == n:
-                return res.append(''.join(sol[:]))
+        if len(digits) == 0: return []
+
+        def backtrack(i):
+            if len(sol) == len(digits):
+                res.append(''.join(sol[:]))
+                return
             
             for x in keyboard[digits[i]]:
                 sol.append(x)
-                backtracking(i+1)
+                backtrack(i+1)
                 sol.pop()
-                
-        backtracking(0)
-        return res
-
-
         
+        backtrack(0)
+        return res
+                    
