@@ -1,28 +1,22 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans = []
         sol = []
-        
-        def backtracking(i):
-            # index out of bounds condition
-            if i == len(nums):
-                return ans.append(sol[:])
-            
-            # dont pick 
-            backtracking(i+1)
+        res = []
 
-            # pick condition
-            sol.append(nums[i])
-            backtracking(i+1)
+        def backtrack(i):
+            if i == len(nums):
+                res.append(sol[:])
+                return
             
-            #backtracking part
+            backtrack(i+1)
+
+            sol.append(nums[i])
+            backtrack(i+1)
             sol.pop()
         
-        backtracking(0)
-        return ans
-            
-
-            
+        backtrack(0)
+        return res
 
 
 
+        
