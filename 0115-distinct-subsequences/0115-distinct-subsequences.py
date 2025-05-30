@@ -3,20 +3,19 @@ class Solution:
         if len(t) > len(s):
             return 0
         
-        memo = {}
+        dp = {}
         def dfs(i, j):
             if j == len(t):
                 return 1
             if i == len(s):
                 return 0
-            if (i,j) in memo:
-                return memo[(i,j)]
-
+            if (i, j) in dp:
+                return dp[(i, j)]
+            
             res = dfs(i + 1, j)
             if s[i] == t[j]:
                 res += dfs(i + 1, j + 1)
-
-            memo[(i,j)] = res
+            dp[(i, j)] = res
             return res
-        
+
         return dfs(0, 0)
