@@ -3,22 +3,27 @@ class Solution:
         res = []
         sol = []
 
-        def isPalindrome(start, end):
-            return s[start:end+1] == s[start:end+1][::-1]
-
-        def backtracking(i):
+        def isPalindrome(l, r):
+            while l <= r:
+                if s[l] != s[r]:
+                    return False
+                l += 1
+                r -= 1
+            return True
+        
+        def backtrack(i):
             if i == len(s):
-                return res.append(sol[:])
+                res.append(sol[:])
+                return
             
-            #backtracking(i+1)
-
-            for end in range(i, len(s)):
-                if isPalindrome(i, end):
-                    sol.append(s[i:end+1])
-                    backtracking(end + 1)
+            for x in range(i, len(s)):
+                if isPalindrome(i, x):
+                    sol.append(s[i:x+1])
+                    backtrack(x+1)
                     sol.pop()
-                
-        backtracking(0)
+        
+        backtrack(0)
         return res
 
+        
         
