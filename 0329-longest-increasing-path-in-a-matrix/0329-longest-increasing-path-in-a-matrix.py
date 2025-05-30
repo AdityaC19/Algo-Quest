@@ -1,18 +1,14 @@
 class Solution:
     def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
         m, n = len(matrix), len(matrix[0])
-        memo = {}
 
+        @cache
         def dfs(i, j):
-            if (i,j) in memo:
-                return memo[(i,j)]
             maxlen = 1
 
             for r, c in [(i+1, j), (i, j+1), (i-1, j), (i, j-1)]:
                 if 0 <= r < m and 0 <= c < n and matrix[r][c] > matrix[i][j]:
                     maxlen = max(maxlen, 1 + dfs(r,c))
-
-            memo[(i,j)] = maxlen
             return maxlen
             
         max_path = 0
