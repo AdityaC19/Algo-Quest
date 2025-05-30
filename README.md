@@ -114,6 +114,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/AdityaC19/Algo-Quest/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AdityaC19/Algo-Quest/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions
 | [0064-minimum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/AdityaC19/Algo-Quest/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaC19/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AdityaC19/Algo-Quest/tree/master/0131-palindrome-partitioning) |
