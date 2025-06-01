@@ -63,6 +63,7 @@ A collection of LeetCode questions
 | [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/AdityaC19/Algo-Quest/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
 ## Math
@@ -236,6 +238,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -314,6 +318,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -560,6 +565,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/AdityaC19/Algo-Quest/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
