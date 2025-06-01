@@ -9,4 +9,3 @@ class Solution:
                 heapq.heappushpop(min_heap, num)
         
         return min_heap[0]
-        
