@@ -80,6 +80,7 @@ A collection of LeetCode questions
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Matrix
@@ -303,6 +305,7 @@ A collection of LeetCode questions
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
 | ------- |
@@ -559,6 +562,7 @@ A collection of LeetCode questions
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 ## Quickselect
@@ -652,4 +656,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AdityaC19/Algo-Quest/tree/master/0332-reconstruct-itinerary) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
