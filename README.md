@@ -58,6 +58,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/AdityaC19/Algo-Quest/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/AdityaC19/Algo-Quest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
