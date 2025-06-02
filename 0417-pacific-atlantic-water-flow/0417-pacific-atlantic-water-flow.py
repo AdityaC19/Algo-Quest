@@ -3,27 +3,9 @@ class Solution:
         m, n = len(heights), len(heights[0])
         pac_seen = set()
         atl_seen = set()
-
-        pac_q = deque()
-        atl_q = deque()
-
-        for i in range(m):
-            pac_q.append((i,0))
-            pac_seen.add((i,0))
         
-        for i in range(n):
-            pac_q.append((0,i))
-            pac_seen.add((0,i))
-        
-        for i in range(m):
-            atl_q.append((i, n-1))
-            atl_seen.add((i, n-1))
-        
-        for i in range(n):
-            atl_q.append((m-1, i))
-            atl_seen.add((m-1, i))
-        
-        def bfs(q, seen):
+        def bfs(starts, seen):
+            q = deque(starts)
             while q:
                 for _ in range(len(q)):
                     (i, j) = q.popleft()
@@ -31,7 +13,15 @@ class Solution:
                         if 0 <= r < m and 0 <= c < n and (r,c) not in seen and heights[r][c] >= heights[i][j]:
                             q.append((r,c))
                             seen.add((r,c))
-        
+            
+        pac_q = [(i,0) for i in range(m)] + [(0,j) for j in range(n)]
+        atl_q = [(i, n-1) for i in range(m)] + [(m-1, j) for j in range(n)]
+
+        for cell in pac_q:
+            pac_seen.add(cell)
+        for cell in atl_q:
+            atl_seen.add(cell)
+
         bfs(pac_q, pac_seen)
         bfs(atl_q, atl_seen)
 
