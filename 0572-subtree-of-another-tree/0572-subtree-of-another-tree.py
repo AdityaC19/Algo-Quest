@@ -9,22 +9,18 @@ class Solution:
         def sameTree(p, q):
             if not p and not q:
                 return True
-            
             if not p or not q:
                 return False
-            
             if p.val != q.val:
                 return False
-            
             return sameTree(p.left, q.left) and sameTree(p.right, q.right)
         
-        def check(root):
+        def dfs(root):
             if not root:
                 return False
-            
             if sameTree(root, subRoot):
                 return True
-            
-            return check(root.left) or check(root.right)
+            return dfs(root.left) or dfs(root.right)
         
-        return check(root)
+        return dfs(root)
+            
