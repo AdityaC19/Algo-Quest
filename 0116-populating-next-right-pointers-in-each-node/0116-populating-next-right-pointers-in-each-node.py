@@ -16,13 +16,13 @@ class Solution:
         res = []
         
         while q:
-            cur_level = []
+            prev = None
             q_len = len(q)
             for _ in range(q_len):
                 node = q.popleft()
-                if q_len > 1:
-                    node.next = q[0]
-                q_len -= 1
+                if prev:
+                    prev.next = node
+                prev = node
                 if node.left:
                     q.append(node.left)
                 if node.right:
