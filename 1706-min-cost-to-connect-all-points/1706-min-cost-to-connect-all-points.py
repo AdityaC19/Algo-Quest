@@ -6,7 +6,7 @@ class Solution:
         cost = [float('inf')] * n
         res = 0
 
-        while len(seen) < n:
+        while min_heap:
             dist, i = heapq.heappop(min_heap)
             if i in seen:
                 continue
