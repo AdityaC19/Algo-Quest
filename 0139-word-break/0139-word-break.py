@@ -11,7 +11,7 @@ class Solution:
             if l in memo:
                 return memo[l]
 
-            for r in range(l + 1, n + 1):
+            for r in range(l, n + 1):
                 if s[l:r] in word_set:
                     if dfs(r):  
                         memo[l] = True  
