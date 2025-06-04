@@ -4,12 +4,11 @@ class Solution:
         hmap = {'(':')', '[':']', '{':'}'}
 
         for i in s:
-            if i in hmap: #Opening bracket
+            if i in hmap:
                 stk.append(i)
-            elif stk and i == hmap[stk[-1]]:  #Closing bracket
+            elif stk and i == hmap[stk[-1]]:
                 stk.pop()
             else:
                 return False
-                
         return not stk
-                
+        
