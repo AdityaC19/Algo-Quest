@@ -7,6 +7,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AdityaC19/Algo-Quest/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaC19/Algo-Quest/tree/master/0035-search-insert-position) |
