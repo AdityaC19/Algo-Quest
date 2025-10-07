@@ -1,9 +1,8 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        h = defaultdict(int)
-        
-        for i in nums:
-            h[i] +=1
+        n = len(nums) / 2
+        counter = Counter(nums)
 
-        return max(h, key=h.get)
+        for num in nums:
+            if counter[num] > n:
+                return num
