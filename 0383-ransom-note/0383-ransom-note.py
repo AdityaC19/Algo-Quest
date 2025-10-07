@@ -1,24 +1,16 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        d = {}
+        hmap = defaultdict(int)
 
         for i in magazine:
-            if i not in d:
-                d[i] = 1
-            else:
-                d[i] += 1
+            hmap[i] += 1
         
-        for i in ransomNote:
-            if i in d and d[i]==1:
-                del d[i]              
-            elif i in d:
-                d[i] -= 1
+        for note in ransomNote:
+            if note in hmap and hmap[note] == 1:
+                del hmap[note]
+            elif note in hmap:
+                hmap[note] -= 1
             else:
                 return False
-                        
-        return True
-
         
-
-
-
+        return True
