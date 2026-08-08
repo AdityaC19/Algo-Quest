@@ -1,21 +1,15 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        hmap = {}
-        min_heap = []
+        c = Counter(nums)
 
-        for num in nums:
-            if num in hmap:
-                hmap[num] += 1
-            else:
-                hmap[num] = 1
+        c_sorted = sorted(c.items(), key= lambda x: x[1], reverse = True)
         
-        for key,val in hmap.items():
-            if len(min_heap) < k:
-                heapq.heappush(min_heap, (val, key))
-            else:
-                heapq.heappushpop(min_heap, (val, key))
-        
-        return [h[1] for h in min_heap]
+        #print(c_sorted)
 
+        ans = []
+        for i in range(k):
+            ans.append(c_sorted[i][0])
+        
+        return ans
 
         
