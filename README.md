@@ -706,4 +706,8 @@ A collection of LeetCode questions
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0789-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
