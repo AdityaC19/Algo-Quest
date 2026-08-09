@@ -4,12 +4,9 @@ class Solution:
         minCost = prices[0]
 
         for i in range(len(prices)):
+            minCost = min(minCost, prices[i])
             profit = prices[i] - minCost
-            if maxProfit > profit:
-                minCost = min(minCost, prices[i])
             maxProfit = max(maxProfit, profit)
-
-            #print(maxProfit, minCost)
 
         return maxProfit 
         
