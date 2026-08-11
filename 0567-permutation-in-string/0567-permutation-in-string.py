@@ -1,20 +1,27 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        n = len(s1)
-        m = len(s2)
-        h1 = Counter(s1)
-        h2 = Counter(s2[:n])
+        n1 = len(s1)
+        n2 = len(s2)
 
-        if h1 == h2:
+        if n1 > n2:
+            return False
+        
+        count1 = [0] * 26
+        count2 = [0] * 26
+
+        for i in range(n1):
+            count1[ord(s1[i]) - 97] += 1
+            count2[ord(s2[i]) - 97] += 1
+        
+        if count1 == count2:
             return True
-
-        for i in range(n, m):
-            h2[s2[i]] += 1
-            h2[s2[i-n]] -= 1
-
-            if h1 == h2:
+        
+        for i in range(n1, n2):
+            count2[ord(s2[i]) - 97] += 1
+            count2[ord(s2[i-n1]) - 97] -= 1
+            if count1 == count2:
                 return True
-            
-
+        
         return False
+
         
