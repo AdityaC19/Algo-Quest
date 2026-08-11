@@ -122,6 +122,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AdityaC19/Algo-Quest/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AdityaC19/Algo-Quest/tree/master/0115-distinct-subsequences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaC19/Algo-Quest/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/AdityaC19/Algo-Quest/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AdityaC19/Algo-Quest/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdityaC19/Algo-Quest/tree/master/0127-word-ladder) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaC19/Algo-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AdityaC19/Algo-Quest/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
