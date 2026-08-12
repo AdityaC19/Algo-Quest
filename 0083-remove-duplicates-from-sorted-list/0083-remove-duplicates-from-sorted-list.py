@@ -14,4 +14,3 @@ class Solution:
                 curr = curr.next
         
         return head
-            
