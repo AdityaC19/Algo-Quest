@@ -7,7 +7,7 @@ class Solution:
         r = n
 
         while l < r:
-            m = (r+l)//2
+            m = l + (r-l)//2
 
             if isBadVersion(m):
                 r = m
