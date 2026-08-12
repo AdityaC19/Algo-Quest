@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
