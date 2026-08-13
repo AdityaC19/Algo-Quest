@@ -725,4 +725,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
