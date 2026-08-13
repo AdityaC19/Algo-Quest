@@ -1,8 +1,9 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        intervals.sort(key = lambda x: x[0])
-        ans = [intervals[0]]
+        intervals.sort()
+
         n = len(intervals)
+        ans = [intervals[0]]
 
         for i in range(1, n):
             curr = ans[-1]
@@ -12,9 +13,4 @@ class Solution:
                 ans.append(intervals[i])
         
         return ans
-
-
-        
-                
-                
         
