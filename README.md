@@ -115,6 +115,7 @@ A collection of LeetCode questions
 | [0876-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions
 | [0782-jewels-and-stones](https://github.com/AdityaC19/Algo-Quest/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1894-merge-strings-alternately) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
