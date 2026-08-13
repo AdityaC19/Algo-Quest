@@ -9,7 +9,7 @@ class Solution:
         def dfs(p, q):
             if not p and not q:
                 return True
-            
+                
             if not p or not q:
                 return False
             
@@ -17,5 +17,5 @@ class Solution:
                 return False
             
             return dfs(p.left, q.left) and dfs(p.right, q.right)
-
-        return dfs(p, q)
+                      
+        return dfs(p,q)
