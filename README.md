@@ -109,6 +109,7 @@ A collection of LeetCode questions
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1894-merge-strings-alternately) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityaC19/Algo-Quest/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
