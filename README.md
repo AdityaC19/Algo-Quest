@@ -59,6 +59,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaC19/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/AdityaC19/Algo-Quest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AdityaC19/Algo-Quest/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
