@@ -2,7 +2,7 @@ class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         n = len(s)
         l = 0 
-        r = n-1
+        r = 0
         hmap = defaultdict(int)
         maxFreq = 0
         ans = 0
