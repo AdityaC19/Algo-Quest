@@ -7,28 +7,22 @@ class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         curr1 = list1
         curr2 = list2
-
-        if not list1:
-            return list2
-        if not list2:
-            return list1
-
         dummy = ListNode()
-        pointer = dummy
+        d = dummy
 
         while curr1 and curr2:
-            if curr2.val <= curr1.val:
-                pointer.next = curr2
-                curr2 = curr2.next 
-            else:
-                pointer.next = curr1
+            if curr1.val < curr2.val:
+                d.next = curr1
+                d = curr1
                 curr1 = curr1.next
-            pointer = pointer.next
+            else:
+                d.next = curr2
+                d = curr2
+                curr2 = curr2.next
         
-        pointer.next = curr1 if curr1 else curr2        
+        d.next = curr1 if curr1 else curr2
+        
         return dummy.next
 
 
-            
-        
         
