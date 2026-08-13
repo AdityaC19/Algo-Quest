@@ -10,16 +10,15 @@ class Solution:
         def dfs(node):
             if not node:
                 return 0
-
+            
             left = dfs(node.left)
             right = dfs(node.right)
             diameter = left + right
             maxD[0] = max(maxD[0], diameter)
 
             return 1 + max(left, right)
-
+        
         dfs(root)
         return maxD[0]
-        
 
-        
+           
