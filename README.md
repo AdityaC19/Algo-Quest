@@ -390,6 +390,7 @@ A collection of LeetCode questions
 | [0206-reverse-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
+| [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
