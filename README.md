@@ -164,6 +164,7 @@ A collection of LeetCode questions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdityaC19/Algo-Quest/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdityaC19/Algo-Quest/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/AdityaC19/Algo-Quest/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0142-linked-list-cycle-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaC19/Algo-Quest/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdityaC19/Algo-Quest/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AdityaC19/Algo-Quest/tree/master/0146-lru-cache) |
