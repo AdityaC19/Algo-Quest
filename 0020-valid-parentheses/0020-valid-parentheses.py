@@ -1,14 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stk = []
-        hmap = {')':'(', '}':'{', ']':'['}
+        hmap = {')': '(', ']': '[', '}': '{'}
 
-        for i in range(len(s)):
-            if s[i] not in hmap:
-                stk.append(s[i])
-            elif stk and hmap[s[i]] == stk[-1]:
+        stk = []
+
+        for i in s:
+            if i not in hmap:
+                stk.append(i)
+            elif stk and stk[-1] == hmap[i]:
                 stk.pop()
             else:
                 return False
+
+        return not stk
+            
         
-        return True if not stk else False
