@@ -142,6 +142,7 @@ A collection of LeetCode questions
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions
 | [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
@@ -764,4 +767,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
