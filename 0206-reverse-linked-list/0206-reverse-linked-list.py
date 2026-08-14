@@ -9,9 +9,15 @@ class Solution:
         prev = None
 
         while curr:
-            temp = curr.next
+            temp = curr.next            # temp = 5, prev = 3
             curr.next = prev
             prev = curr
             curr = temp
-
+           
         return prev
+
+
+
+
+
+        
