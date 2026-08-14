@@ -9,32 +9,14 @@ class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         def dfs(node):
             if not node:
-                return
+                return 
             
-            if node == p or node == q:
+            if node.val < p.val and node.val < q.val:
+                return dfs(node.right)
+            elif node.val > p.val and node.val > q.val:
+                return dfs(node.left)
+            else:
                 return node
-
-            left = dfs(node.left)
-            right = dfs(node.right)
-
-            # cond?
-            if left is not None and right is not None:
-                return node
-            
-            return left if left is not None else right
-
-        return dfs(root)     
         
-
-        # node = root
-
-        # while node:
-        #     if node.val < p.val and node.val < q.val:
-        #         node = node.right
-        #     elif node.val > p.val and node.val > q.val:
-        #         node = node.left
-        #     else:
-        #         return node
-
-
+        return dfs(root)
         
