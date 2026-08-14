@@ -6,18 +6,34 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        ans = []
-        def inorder(node):
+        prev = None
+        isBST = [True]
+        def dfs(node):
+            nonlocal prev
             if not node:
-                return None
+                return 
             
-            inorder(node.left)
-            ans.append(node.val)
-            inorder(node.right)
+            dfs(node.left)
+            if prev is not None:
+                if node.val <= prev:
+                    isBST[0] = False
+            prev = node.val
+            dfs(node.right)
+        
+        dfs(root)
+        return isBST[0]
 
-        inorder(root)
 
-        if sorted(ans) == ans and len(set(ans)) == len(ans):
-            return True
+        # def dfs(root):
+        #     if not root:
+        #         return None
 
-        return False        
+        #     while root:
+        #         if root.left and dfs(root.left.val) >= root.val:
+        #             return False
+        #         elif root.right and dfs(root.right.val) <= root.val:
+        #             return False
+        #         else:
+        #             return True
+        
+        # dfs(root)
