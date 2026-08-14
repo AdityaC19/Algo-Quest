@@ -753,6 +753,7 @@ A collection of LeetCode questions
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1522-diameter-of-n-ary-tree) |
 ## Binary Lifting
