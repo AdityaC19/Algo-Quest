@@ -8,16 +8,22 @@ class Node:
 
 class Solution:
     def maxDepth(self, root: 'Node') -> int:
+        max_sum = 0
         def dfs(node):
+            nonlocal max_sum
             maxDepth = 0
             if not node:
                 return 0
             
             for child in node.children:
-                depth = dfs(child)
+                depth = max(dfs(child), 0)
+                cur_sum = maxDepth + depth + node.val
+                max_sum = max(max_sum, cur_sum)
                 maxDepth = max(maxDepth, depth)
             
-            return 1 + maxDepth
+            return node.val + maxDepth
         
-        return dfs(root)
+        dfs(root)
+        return max_sum
+
         
