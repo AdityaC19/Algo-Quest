@@ -12,22 +12,26 @@ class Solution:
         curr = head
         hmap = {}
 
-        if not head:
-            return None
-        
+        if not head: return None
+
         while curr:
-            node = Node(x=curr.val)
+            node = Node(curr.val)
             hmap[curr] = node
             curr = curr.next
         
         curr = head
+
         while curr:
             new_node = hmap[curr]
             if curr.next:
                 new_node.next = hmap[curr.next]
             else:
                 None
-            new_node.random = hmap[curr.random] if curr.random else None
+            if curr.random:
+                new_node.random = hmap[curr.random]
+            else:
+                None
             curr = curr.next
         
         return hmap[head]
+        
