@@ -472,6 +472,7 @@ A collection of LeetCode questions
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1522-diameter-of-n-ary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1522-diameter-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -514,6 +515,7 @@ A collection of LeetCode questions
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
+| [1522-diameter-of-n-ary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1522-diameter-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/AdityaC19/Algo-Quest/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
@@ -752,4 +754,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0543-diameter-of-binary-tree) |
+| [1522-diameter-of-n-ary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/1522-diameter-of-n-ary-tree) |
 <!---LeetCode Topics End-->
