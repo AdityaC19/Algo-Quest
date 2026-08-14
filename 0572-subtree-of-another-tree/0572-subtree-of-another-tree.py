@@ -9,10 +9,8 @@ class Solution:
         def helper(p, q):
             if not p and not q:
                 return True
-            
             if not p or not q:
                 return False
-            
             if p.val != q.val:
                 return False
             
@@ -23,10 +21,9 @@ class Solution:
                 return False
             if helper(root, subRoot):
                 return True
+            
             return dfs(root.left) or dfs(root.right)
         
         return dfs(root)
-            
-
 
         
