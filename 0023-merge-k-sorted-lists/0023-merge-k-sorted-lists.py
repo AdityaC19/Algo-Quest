@@ -23,3 +23,5 @@ class Solution:
                 heapq.heappush(min_heap, (node.val, i, node))
         
         return d.next
+
+        
