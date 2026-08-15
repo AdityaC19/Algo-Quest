@@ -60,6 +60,7 @@ A collection of LeetCode questions
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaC19/Algo-Quest/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaC19/Algo-Quest/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaC19/Algo-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaC19/Algo-Quest/tree/master/0380-insert-delete-getrandom-o1) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions
 | [0146-lru-cache](https://github.com/AdityaC19/Algo-Quest/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AdityaC19/Algo-Quest/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaC19/Algo-Quest/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Interactive
 |  |
@@ -793,4 +797,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaC19/Algo-Quest/tree/master/0023-merge-k-sorted-lists) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaC19/Algo-Quest/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
