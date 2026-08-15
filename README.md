@@ -84,6 +84,7 @@ A collection of LeetCode questions
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
