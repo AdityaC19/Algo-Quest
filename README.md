@@ -153,6 +153,7 @@ A collection of LeetCode questions
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AdityaC19/Algo-Quest/tree/master/0782-jewels-and-stones) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1768-merge-strings-alternately) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
