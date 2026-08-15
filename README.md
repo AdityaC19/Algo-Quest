@@ -787,4 +787,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AdityaC19/Algo-Quest/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
