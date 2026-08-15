@@ -3,7 +3,6 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-import heapq
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         min_heap = []
@@ -12,15 +11,15 @@ class Solution:
             if node:
                 heapq.heappush(min_heap, (node.val, i, node))
         
-        D = ListNode()
-        curr = D
+        d = ListNode()
+        curr = d
 
         while min_heap:
             val, i, node = heapq.heappop(min_heap)
             curr.next = node
-            curr = curr.next
+            curr = node
             node = node.next
             if node:
                 heapq.heappush(min_heap, (node.val, i, node))
         
-        return D.next
+        return d.next
