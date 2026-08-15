@@ -3,23 +3,27 @@ class Solution:
         n = len(height)
         l = 0
         r = n-1
-        maxl = 0
-        maxh = 0
+        leftMax = height[l]
+        rightMax = height[r]
         ans = 0
 
+        # min(lm, rm) - h[i]
+
         while l < r:
-            if height[l] < height[r]:
-                maxl = max(maxl, height[l])
-                ans += maxl - height[l]
+            if leftMax < rightMax:
                 l += 1
+                leftMax = max(leftMax, height[l])
+                ans += leftMax - height[l]
             else:
-                maxh = max(maxh, height[r])
-                ans += maxh - height[r]
-                r -= 1
+                r -=1
+                rightMax = max(rightMax, height[r])
+                ans += rightMax - height[r]
         
         return ans
 
 
-                
+            
+
+        
 
         
