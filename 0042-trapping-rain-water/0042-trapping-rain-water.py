@@ -3,8 +3,8 @@ class Solution:
         n = len(height)
         l = 0
         r = n-1
-        maxl = (height[l])
-        maxh = (height[r])
+        maxl = 0
+        maxh = 0
         ans = 0
 
         while l < r:
