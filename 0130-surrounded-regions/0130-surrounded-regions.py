@@ -15,14 +15,13 @@ class Solution:
                         q.append((i,j))
 
         while q:
-            for _ in range(len(q)):
-                i, j = q.popleft()
-                for r, c in [(i+1, j), (i, j+1), (i-1, j), (i, j-1)]:
-                    if 0 <= r < m and 0 <= c < n:
-                        if (r,c) not in dont_touch and board[r][c] == 'O':
-                            q.append((r,c))
-                            dont_touch.add((r,c))
-        
+            i, j = q.popleft()
+            for r, c in [(i+1, j), (i, j+1), (i-1, j), (i, j-1)]:
+                if 0 <= r < m and 0 <= c < n:
+                    if (r,c) not in dont_touch and board[r][c] == 'O':
+                        q.append((r,c))
+                        dont_touch.add((r,c))
+    
         for i in range(m):
             for j in range(n):
                 if (i,j) not in dont_touch and board[i][j] == 'O':
