@@ -1,23 +1,24 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         m,n = len(grid), len(grid[0])
-        
-        def dfs(i, j):
-            if i < 0 or i >= m or j < 0 or j >= n or grid[i][j] != '1':
-                return 
-            
-            grid[i][j] = '#'
+        seen = set()
 
-            dfs(i+1, j)
-            dfs(i, j+1)
-            dfs(i-1, j)
-            dfs(i, j-1)
-        
+        def bfs(i,j):
+            q = deque([(i,j)])
+
+            while q:
+                i, j  = q.popleft()
+                for r, c in [(i+1, j), (i-1, j), (i, j+1), (i, j-1)]:
+                    if 0 <= r < m and 0 <= c < n and (r,c) not in seen and grid[r][c] == '1':
+                        q.append((r,c))
+                        seen.add((r,c))                 
+
         num_islands = 0
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == '1':
+                if (i,j) not in seen and grid[i][j] == '1':
+                    seen.add((i,j))
                     num_islands+=1
-                    dfs(i,j)
+                    bfs(i,j)
         
         return num_islands
