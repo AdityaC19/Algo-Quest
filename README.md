@@ -91,6 +91,7 @@ A collection of LeetCode questions
 | [1127-last-stone-weight](https://github.com/AdityaC19/Algo-Quest/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
@@ -774,6 +776,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bracket Sequences
 |  |
@@ -822,9 +825,22 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
