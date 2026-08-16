@@ -20,7 +20,7 @@ class Solution:
             order.append(node)
             for nei_node in graph[node]:
                 indeg[nei_node] -=1
-                if indeg[nei_node] == 0:
+                if indeg[nei_node] == 0:    #nodes with no prerequisites
                     q.append(nei_node)
         
         return order if len(order) == numCourses else []
