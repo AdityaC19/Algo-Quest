@@ -818,6 +818,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
