@@ -17,8 +17,8 @@ class Solution:
             hmap[node] = wt
 
             for nei_node, nei_wt in graph[node]:
-                if nei_node not in hmap:
-                    heapq.heappush(min_heap, (wt + nei_wt, nei_node))    
+                #if nei_node not in hmap:
+                heapq.heappush(min_heap, (wt + nei_wt, nei_node))    
         
         if len(hmap) == n:
             return max(hmap.values())
