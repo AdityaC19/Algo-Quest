@@ -11,18 +11,22 @@ class Solution:
         
         seen = set()
         seen.add(source)
-        
-        def dfs(node):
+        q = deque([source])
+
+        while q:
+            node = q.popleft()
             if node == destination:
                 return True
-            
             for nei_node in graph[node]:
                 if nei_node not in seen:
                     seen.add(nei_node)
-                    if dfs(nei_node):
-                        return True
+                    q.append(nei_node)
+        
+        return False
+
+        
+        
             
-            return False
         
         return dfs(source)
 
