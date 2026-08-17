@@ -3,7 +3,7 @@ class Solution:
         graph = defaultdict(list)
         indeg = [0] * numCourses
 
-        for u, v in prerequisites:
+        for u,v in prerequisites:
             graph[v].append(u)
             indeg[u] += 1
 
@@ -14,42 +14,16 @@ class Solution:
                 q.append(i)
         
         order = []
-
         while q:
             node = q.popleft()
             order.append(node)
+
             for nei_node in graph[node]:
-                indeg[nei_node] -=1
-                if indeg[nei_node] == 0:    #nodes with no prerequisites
+                indeg[nei_node] -= 1
+                if indeg[nei_node] == 0:
                     q.append(nei_node)
         
         return order if len(order) == numCourses else []
 
-        # visited = [0] * numCourses
-        # order = []
-        
-        # def dfs(node):
-        #     if visited[node] == 1:
-        #         return True
-        #     if visited[node] == 2:
-        #         return False
-            
-        #     visited[node] = 1
 
-        #     for nei_node in graph[node]:
-        #         if dfs(nei_node):
-        #             return True
-            
-        #     visited[node] = 2
-        #     order.append(node)
-            
-        #     return False
         
-        # for i in range(numCourses):
-        #     dfs(i)
-        
-        # return order if len(order) == numCourses else []
-        
-
-
-
