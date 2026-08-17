@@ -4,13 +4,14 @@ class Solution:
 
         for u, v in prerequisites:
             graph[u].append(v)
+
         
         visited = [0] * numCourses
 
         def dfs(node):
-            if visited[node] == 1:  # visiting again (cycle detected)
+            if visited[node] == 1:
                 return True
-            if visited[node] == 2: # visited
+            if visited[node] == 2:
                 return False
             
             visited[node] = 1
@@ -25,6 +26,5 @@ class Solution:
         for i in range(numCourses):
             if dfs(i):
                 return False
-            
+        
         return True
-            
