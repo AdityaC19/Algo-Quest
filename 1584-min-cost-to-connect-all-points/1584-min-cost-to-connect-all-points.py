@@ -6,7 +6,7 @@ class Solution:
         seen = set()
         ans = 0
 
-        while min_heap:
+        while len(seen) < n:
             dist, i = heapq.heappop(min_heap)
 
             if i in seen:
