@@ -159,6 +159,7 @@ A collection of LeetCode questions
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AdityaC19/Algo-Quest/tree/master/0782-jewels-and-stones) |
+| [1143-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
@@ -877,4 +879,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
