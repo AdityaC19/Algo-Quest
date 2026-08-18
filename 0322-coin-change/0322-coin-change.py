@@ -1,27 +1,15 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        coins.sort()
+        dp = [amount+1] * (amount +1)
 
-        dp = [0] * (amount+1)    # [0 _ _ _ _ _ _ _ _ _ _ _]
         dp[0] = 0
 
-        for i in range(1, amount + 1):
-            minn = float('inf')
-
+        for i in range(1, amount+1):
             for coin in coins:
-                diff = i - coin
-                if diff < 0:
-                    break
-                
-                minn = min(minn, dp[diff]+1)
-            
-            dp[i] = minn
+                if coin <= i:
+                    dp[i] = min(dp[i], dp[i-coin] + 1)
         
-        if dp[amount] < float('inf'):
-            return dp[amount]
-        else:
+        if dp[amount] == amount+1:
             return -1
-
-
-
-        
+        else:
+            return dp[amount]
