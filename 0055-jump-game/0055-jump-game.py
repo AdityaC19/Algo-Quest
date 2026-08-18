@@ -2,12 +2,12 @@ class Solution:
     def canJump(self, nums: List[int]) -> bool:
         n = len(nums)
 
-        farthest = 0
-        for i in range(n):
-            if i > farthest:
-                return False
-            farthest = max(farthest, i + nums[i])
-        
-        return True
+        target = n -1 
+
+        for i in range(n-2, -1, -1):
+            if nums[i] + i >= target:
+                target = i
+
+        return target == 0
 
         
