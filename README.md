@@ -74,6 +74,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions
 | [0509-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0803-cheapest-flights-within-k-stops) |
