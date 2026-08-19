@@ -1,7 +1,7 @@
 class Node:
-    def __init__(self, key, value):
+    def __init__(self, key, val):
         self.key = key
-        self.value = value
+        self.val = val
         self.next = None
         self.prev = None
 
@@ -13,7 +13,7 @@ class LRUCache:
         self.head = Node(None, None)
         self.tail = Node(None, None)
         self.head.next = self.tail
-        self.tail.prev = self.head
+        self.tail.prev = self.head  
     
     def deleteNode(self, node):
         prevNode = node.prev
@@ -21,36 +21,35 @@ class LRUCache:
         prevNode.next = nextNode
         nextNode.prev = prevNode
     
-    def insertAfterHead(self, node):
+    def InsertAfterHead(self, node):
         afterNode = self.head.next
-        node.next = afterNode
         node.prev = self.head
-        afterNode.prev = node
+        node.next = afterNode
         self.head.next = node
+        afterNode.prev = node
 
     def get(self, key: int) -> int:
         if key in self.cache:
             node = self.cache[key]
             self.deleteNode(node)
-            self.insertAfterHead(node)
-            return node.value
+            self.InsertAfterHead(node)
+            return node.val
         return -1
 
     def put(self, key: int, value: int) -> None:
         if key in self.cache:
             node = self.cache[key]
-            node.value = value
+            node.val = value
             self.deleteNode(node)
-            self.insertAfterHead(node)
+            self.InsertAfterHead(node)
         else:
             if len(self.cache) == self.capacity:
                 lru = self.tail.prev
                 self.deleteNode(lru)
                 self.cache.pop(lru.key)
-
-            node = Node(key, value)
-            self.insertAfterHead(node)
-            self.cache[key] = node
+            new_node = Node(key, value)
+            self.InsertAfterHead(new_node)
+            self.cache[key] = new_node
 
         
 
