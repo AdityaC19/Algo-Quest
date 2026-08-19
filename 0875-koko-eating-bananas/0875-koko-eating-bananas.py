@@ -4,22 +4,19 @@ class Solution:
             hours = 0
             for pile in piles:
                 hours += ceil(pile/k)
+            
             return hours <= h
         
-        l, r = 1, max(piles)
+        l = 1
+        r = max(piles)
 
         while l < r:
             m = l + (r-l)//2
 
             if k_works(m):
-                r = m
+                r = m 
             else:
-                l = m+1
+                l = m + 1
         
         return l
-
-
-        
-
-
         
