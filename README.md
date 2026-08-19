@@ -745,6 +745,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/AdityaC19/Algo-Quest/tree/master/0820-find-eventual-safe-states) |
+| [1136-parallel-courses](https://github.com/AdityaC19/Algo-Quest/tree/master/1136-parallel-courses) |
 | [1558-course-schedule-iv](https://github.com/AdityaC19/Algo-Quest/tree/master/1558-course-schedule-iv) |
 ## Minimum Spanning Tree
 |  |
@@ -845,12 +846,14 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1136-parallel-courses](https://github.com/AdityaC19/Algo-Quest/tree/master/1136-parallel-courses) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
+| [1136-parallel-courses](https://github.com/AdityaC19/Algo-Quest/tree/master/1136-parallel-courses) |
 ## Prim's Algorithm
 |  |
 | ------- |
