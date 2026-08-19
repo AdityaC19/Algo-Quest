@@ -28,6 +28,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/AdityaC19/Algo-Quest/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AdityaC19/Algo-Quest/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0090-subsets-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions
 | [0015-3sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/AdityaC19/Algo-Quest/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AdityaC19/Algo-Quest/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0142-linked-list-cycle-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions
 | [0047-permutations-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AdityaC19/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AdityaC19/Algo-Quest/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaC19/Algo-Quest/tree/master/0217-contains-duplicate) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/AdityaC19/Algo-Quest/tree/master/0075-sort-colors) |
 | [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
 ## DP on Trees
 |  |
@@ -898,4 +902,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/1143-longest-common-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdityaC19/Algo-Quest/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
