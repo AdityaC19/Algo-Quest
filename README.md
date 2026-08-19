@@ -214,6 +214,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AdityaC19/Algo-Quest/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AdityaC19/Algo-Quest/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0070-climbing-stairs) |
