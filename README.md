@@ -81,6 +81,7 @@ A collection of LeetCode questions
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/AdityaC19/Algo-Quest/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/0994-rotting-oranges) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/AdityaC19/Algo-Quest/tree/master/0782-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/AdityaC19/Algo-Quest/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/AdityaC19/Algo-Quest/tree/master/1297-maximum-number-of-balloons) |
 ## Math
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/AdityaC19/Algo-Quest/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
