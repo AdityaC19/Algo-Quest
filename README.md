@@ -53,6 +53,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/AdityaC19/Algo-Quest/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AdityaC19/Algo-Quest/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AdityaC19/Algo-Quest/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaC19/Algo-Quest/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaC19/Algo-Quest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0056-merge-intervals) |
+| [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
 ## DP on Trees
 |  |
 | ------- |
