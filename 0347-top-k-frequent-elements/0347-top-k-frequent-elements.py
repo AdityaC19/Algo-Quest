@@ -1,32 +1,20 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        counter = Counter(nums)
-        n = len(nums)
-        bucket = [0] * (n+1)
+        hmap = defaultdict(int)
 
-        for i, freq in counter.items():
-            if bucket[freq] == 0:
-                bucket[freq] = [i]
+        for num in nums:
+            hmap[num] += 1
+        
+        min_heap = []
+
+        for key, val in hmap.items():
+            if len(min_heap) < k:
+                heapq.heappush(min_heap, (val ,key))
             else:
-                bucket[freq].append(i)
+                heapq.heappushpop(min_heap, (val, key))
         
-        res = []
-        for i in range(n, -1, -1):
-            if bucket[i] != 0:
-                res.extend(bucket[i])
-            if len(res) == k:
-                return res
+        return [h[1] for h in min_heap]
+
         
 
-        # counter = Counter(nums)
-
-        # min_heap = []
-
-        # for key, val in counter.items():
-        #     if len(min_heap) < k:
-        #         heapq.heappush(min_heap, (val, key))
-        #     else:
-        #         heapq.heappushpop(min_heap, (val, key))
-        
-        # return [h[1] for h in min_heap]
         
