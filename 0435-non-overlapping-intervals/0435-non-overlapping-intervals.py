@@ -1,18 +1,16 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
-        count = 1
-        intervals.sort(key = lambda x: x[1])
-        n = len(intervals)
+        intervals.sort()
+        curr = intervals[0]
+        count = 0
 
-        prev = 0
-
-        for i in range(1,n):
-            # if start time of curr meeting > end time of prev meeting
-            if intervals[i][0] >= intervals[prev][1]:
-                # set prev to curr idx i
-                prev = i
-                # increment safe meetings counter by 1
+        for i in range(1, len(intervals)):
+            if curr[1] > intervals[i][0]:
                 count += 1
-                
-        return n - count 
+                curr = min(curr, intervals[i], key=lambda x:x[1])
+            else:
+                curr = intervals[i]
+        
+        return count
+
         
