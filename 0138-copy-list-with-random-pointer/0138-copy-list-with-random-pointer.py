@@ -23,15 +23,11 @@ class Solution:
 
         while curr:
             new_node = hmap[curr]
-            if curr.next:
-                new_node.next = hmap[curr.next]
-            else:
-                None
-            if curr.random:
-                new_node.random = hmap[curr.random]
-            else:
-                None
+            
+            new_node.next = hmap[curr.next] if curr. next else None
+            new_node.random = hmap[curr.random] if curr.random else None
+
             curr = curr.next
         
         return hmap[head]
-        
+
