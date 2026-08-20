@@ -5,7 +5,6 @@ class Solution:
         for u, v in prerequisites:
             graph[u].append(v)
 
-        
         visited = [0] * numCourses
 
         def dfs(node):
@@ -22,9 +21,10 @@ class Solution:
             
             visited[node] = 2
             return False
-        
+
         for i in range(numCourses):
             if dfs(i):
                 return False
-        
+            
         return True
+
