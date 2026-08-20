@@ -911,4 +911,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaC19/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
