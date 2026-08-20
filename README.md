@@ -907,4 +907,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaC19/Algo-Quest/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdityaC19/Algo-Quest/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
