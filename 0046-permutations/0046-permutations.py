@@ -1,20 +1,22 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        ans = []
         sol = []
-        res = []
+        n = len(nums)
 
-        def backtrack(i):
-            if len(sol) == len(nums):
-                res.append(sol[:])
+        def backtrack():
+            if len(sol) == n:
+                ans.append(sol[:])
                 return
             
-            for x in range(len(nums)):
-                if nums[x] not in sol:
-                    sol.append(nums[x])
-                    backtrack(x+1)
+            for num in nums:
+                if num not in sol:
+                    sol.append(num)
+                    backtrack()
                     sol.pop()
+        
+        backtrack()
+        return ans
             
-        backtrack(0)
-        return res
 
         
