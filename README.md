@@ -81,6 +81,7 @@ A collection of LeetCode questions
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/AdityaC19/Algo-Quest/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0875-koko-eating-bananas) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions
 | [0367-valid-perfect-square](https://github.com/AdityaC19/Algo-Quest/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/AdityaC19/Algo-Quest/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0875-koko-eating-bananas) |
