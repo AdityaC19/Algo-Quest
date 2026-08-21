@@ -75,6 +75,7 @@ A collection of LeetCode questions
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions
 | [0508-most-frequent-subtree-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions
 | [0572-subtree-of-another-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -602,6 +607,7 @@ A collection of LeetCode questions
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
@@ -813,6 +819,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bracket Sequences
