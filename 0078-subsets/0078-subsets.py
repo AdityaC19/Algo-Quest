@@ -6,8 +6,7 @@ class Solution:
 
         def backtrack(i):
             if i == n:
-                res.append(sol[:])
-                return
+                return res.append(sol[:])
             
             backtrack(i+1)
 
@@ -17,5 +16,3 @@ class Solution:
         
         backtrack(0)
         return res
-
-        
