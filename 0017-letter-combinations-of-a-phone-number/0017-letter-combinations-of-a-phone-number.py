@@ -21,12 +21,12 @@ class Solution:
             if len(sol) == n:
                 res.append(''.join(sol[:]))
                 return
-            
+
             for x in phone_board[digits[i]]:
                 sol.append(x)
                 backtrack(i+1)
                 sol.pop()
-
+        
         backtrack(0)
         return res
-        
+
