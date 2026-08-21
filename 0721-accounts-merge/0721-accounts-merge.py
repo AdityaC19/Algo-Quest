@@ -1,6 +1,8 @@
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
         graph = defaultdict(set)
+        seen = set()
+        ans = []
 
         for account in accounts:
             for email in account[1:]:
@@ -9,18 +11,16 @@ class Solution:
         
         def dfs(node, res):
             if node in seen:
-                return
+                return 
             
             seen.add(node)
+
             for nei_node in graph[node]:
                 if nei_node not in seen:
                     dfs(nei_node, res)
-
+            
             res.append(node)
         
-        seen = set()
-        ans = []
-
         for account in accounts:
             name = account[0]
             for email in account[1:]:
@@ -31,6 +31,5 @@ class Solution:
                         ans.append([name] + sorted(res))
         
         return ans
-
 
         
