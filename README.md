@@ -548,6 +548,7 @@ A collection of LeetCode questions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AdityaC19/Algo-Quest/tree/master/0257-binary-tree-paths) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AdityaC19/Algo-Quest/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions
 | [0128-longest-consecutive-sequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdityaC19/Algo-Quest/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0743-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1136-parallel-courses](https://github.com/AdityaC19/Algo-Quest/tree/master/1136-parallel-courses) |
