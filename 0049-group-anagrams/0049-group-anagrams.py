@@ -1,13 +1,19 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        grp = defaultdict(list)
+        n = len(strs)
+        hmap = defaultdict(list)
 
         for s in strs:
-            sorted_s = "".join(sorted(s))
-            #print(sorted_s)
-            if sorted_s in grp:
-                grp[sorted_s].append(s)
-            else:
-                grp[sorted_s] = [s]
+            sorted_s = ''.join(sorted(s))
+            hmap[sorted_s].append(s)
+
+        return [h for h in hmap.values()]
+
         
-        return [val for val in grp.values()]
+
+
+            
+
+
+
+        
