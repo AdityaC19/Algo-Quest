@@ -916,6 +916,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -948,4 +949,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdityaC19/Algo-Quest/tree/master/0239-sliding-window-maximum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
