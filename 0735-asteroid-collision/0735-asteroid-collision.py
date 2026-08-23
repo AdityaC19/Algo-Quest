@@ -1,8 +1,5 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
-        posStk = []
-        negStk = []
-
         ans = []
 
         for a in asteroids:
