@@ -84,6 +84,7 @@ A collection of LeetCode questions
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AdityaC19/Algo-Quest/tree/master/0753-open-the-lock) |
+| [0759-employee-free-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0759-employee-free-time) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/AdityaC19/Algo-Quest/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
+| [0759-employee-free-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0744-network-delay-time) |
+| [0759-employee-free-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdityaC19/Algo-Quest/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -962,4 +965,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0416-partition-equal-subset-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0759-employee-free-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0759-employee-free-time) |
 <!---LeetCode Topics End-->
