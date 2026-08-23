@@ -112,6 +112,7 @@ A collection of LeetCode questions
 | [2239-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2239-find-closest-number-to-zero) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2350-find-closest-number-to-zero](https://github.com/AdityaC19/Algo-Quest/tree/master/2350-find-closest-number-to-zero) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/AdityaC19/Algo-Quest/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/AdityaC19/Algo-Quest/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Stack
 |  |
 | ------- |
