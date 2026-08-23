@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/AdityaC19/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AdityaC19/Algo-Quest/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaC19/Algo-Quest/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions
 | [0141-linked-list-cycle](https://github.com/AdityaC19/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaC19/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AdityaC19/Algo-Quest/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/AdityaC19/Algo-Quest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaC19/Algo-Quest/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaC19/Algo-Quest/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaC19/Algo-Quest/tree/master/0435-non-overlapping-intervals) |
@@ -698,6 +703,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/AdityaC19/Algo-Quest/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaC19/Algo-Quest/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AdityaC19/Algo-Quest/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaC19/Algo-Quest/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaC19/Algo-Quest/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
