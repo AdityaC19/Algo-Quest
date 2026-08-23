@@ -3,20 +3,23 @@ class Solution:
         ans = []
 
         for interval in intervals:
-            # new Interval is after curr interval
+            # if new comes after curr
             if interval[1] < newInterval[0]:
                 ans.append(interval)
-            # new Interval is before curr interval
+            # if new comes before curr
             elif interval[0] > newInterval[1]:
                 ans.append(newInterval)
                 newInterval = interval
-            #overlapping
-            elif interval[1] >= newInterval[0] or interval[0] <= newInterval[1]:
+            
+            # overlapping intervals
+            elif interval[1] > newInterval[0] or interval[0] < newInterval[1]:
                 newInterval[0] = min(interval[0], newInterval[0])
                 newInterval[1] = max(interval[1], newInterval[1])
         
         ans.append(newInterval)
 
         return ans
+            
+
 
         
