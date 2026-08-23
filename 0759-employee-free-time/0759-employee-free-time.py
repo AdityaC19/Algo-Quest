@@ -18,7 +18,7 @@ class Solution:
         merged = []
         for i in ints:
             if not merged or i.start > merged[-1].end:
-                merged.append(Interval(i.start, i.end))
+                merged.append(i)
             else:
                 merged[-1].end = max(merged[-1].end, i.end)
         
