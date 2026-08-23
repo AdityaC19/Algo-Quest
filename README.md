@@ -80,6 +80,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
+| [0735-asteroid-collision](https://github.com/AdityaC19/Algo-Quest/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AdityaC19/Algo-Quest/tree/master/0735-asteroid-collision) |
 ## Counting
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions
 | [0155-min-stack](https://github.com/AdityaC19/Algo-Quest/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AdityaC19/Algo-Quest/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AdityaC19/Algo-Quest/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
