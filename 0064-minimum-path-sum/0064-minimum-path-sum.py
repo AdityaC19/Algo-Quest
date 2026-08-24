@@ -11,9 +11,7 @@ class Solution:
         
         for i in range(1, n):
             dp[0][i] = grid[0][i] + dp[0][i-1]
-        
-        print(dp)
-        
+                
         for i in range(1, m):
             for j in range(1, n):
                 dp[i][j] = min(dp[i-1][j] + grid[i][j], dp[i][j-1] + grid[i][j])
