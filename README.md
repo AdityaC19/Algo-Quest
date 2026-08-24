@@ -169,6 +169,7 @@ A collection of LeetCode questions
 | [0383-ransom-note](https://github.com/AdityaC19/Algo-Quest/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaC19/Algo-Quest/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions
 | [0094-binary-tree-inorder-traversal](https://github.com/AdityaC19/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaC19/Algo-Quest/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaC19/Algo-Quest/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AdityaC19/Algo-Quest/tree/master/0735-asteroid-collision) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AdityaC19/Algo-Quest/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/1013-fibonacci-number) |
 ## Number Theory
