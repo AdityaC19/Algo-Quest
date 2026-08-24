@@ -92,6 +92,7 @@ A collection of LeetCode questions
 | [0792-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/AdityaC19/Algo-Quest/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AdityaC19/Algo-Quest/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/AdityaC19/Algo-Quest/tree/master/0907-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions
 | [0567-permutation-in-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/AdityaC19/Algo-Quest/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaC19/Algo-Quest/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AdityaC19/Algo-Quest/tree/master/1768-merge-strings-alternately) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions
 | [0759-employee-free-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/AdityaC19/Algo-Quest/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaC19/Algo-Quest/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaC19/Algo-Quest/tree/master/1019-squares-of-a-sorted-array) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0767-reorganize-string) |
 | [0778-reorganize-string](https://github.com/AdityaC19/Algo-Quest/tree/master/0778-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/AdityaC19/Algo-Quest/tree/master/0881-boats-to-save-people) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/AdityaC19/Algo-Quest/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Stack
 |  |
@@ -982,4 +986,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0759-employee-free-time](https://github.com/AdityaC19/Algo-Quest/tree/master/0759-employee-free-time) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AdityaC19/Algo-Quest/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
