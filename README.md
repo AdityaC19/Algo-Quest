@@ -110,6 +110,7 @@ A collection of LeetCode questions
 | [1428-jump-game-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1428-jump-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1706-min-cost-to-connect-all-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaC19/Algo-Quest/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AdityaC19/Algo-Quest/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AdityaC19/Algo-Quest/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
