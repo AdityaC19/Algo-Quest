@@ -82,6 +82,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaC19/Algo-Quest/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/AdityaC19/Algo-Quest/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/AdityaC19/Algo-Quest/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AdityaC19/Algo-Quest/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdityaC19/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions
 | [0238-product-of-array-except-self](https://github.com/AdityaC19/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/AdityaC19/Algo-Quest/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaC19/Algo-Quest/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
