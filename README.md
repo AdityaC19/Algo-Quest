@@ -621,6 +621,7 @@ A collection of LeetCode questions
 | [1753-path-with-minimum-effort](https://github.com/AdityaC19/Algo-Quest/tree/master/1753-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/AdityaC19/Algo-Quest/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -670,6 +671,7 @@ A collection of LeetCode questions
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/2121-find-if-path-exists-in-graph) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/AdityaC19/Algo-Quest/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
+| [3310-remove-methods-from-project](https://github.com/AdityaC19/Algo-Quest/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -926,6 +928,7 @@ A collection of LeetCode questions
 | [1136-parallel-courses](https://github.com/AdityaC19/Algo-Quest/tree/master/1136-parallel-courses) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AdityaC19/Algo-Quest/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/1971-find-if-path-exists-in-graph) |
+| [3310-remove-methods-from-project](https://github.com/AdityaC19/Algo-Quest/tree/master/3310-remove-methods-from-project) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
