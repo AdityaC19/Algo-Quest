@@ -76,6 +76,7 @@ A collection of LeetCode questions
 | [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AdityaC19/Algo-Quest/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaC19/Algo-Quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaC19/Algo-Quest/tree/master/0643-maximum-average-subarray-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions
 | [0494-target-sum](https://github.com/AdityaC19/Algo-Quest/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AdityaC19/Algo-Quest/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/AdityaC19/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaC19/Algo-Quest/tree/master/0747-min-cost-climbing-stairs) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions
 | [0286-walls-and-gates](https://github.com/AdityaC19/Algo-Quest/tree/master/0286-walls-and-gates) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/AdityaC19/Algo-Quest/tree/master/0794-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/AdityaC19/Algo-Quest/tree/master/0994-rotting-oranges) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaC19/Algo-Quest/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaC19/Algo-Quest/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaC19/Algo-Quest/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/AdityaC19/Algo-Quest/tree/master/0684-redundant-connection) |
