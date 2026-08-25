@@ -6,7 +6,7 @@ class Solution:
             return cost[0]
         if n == 2:
             return min(cost[0], cost[1])
-        
+
         dp = [0] * (n+1)
         dp[0] = 0
         dp[1] = 0
