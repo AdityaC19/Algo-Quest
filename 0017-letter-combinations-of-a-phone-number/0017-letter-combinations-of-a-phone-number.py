@@ -11,17 +11,15 @@ class Solution:
             "9": "wxyz"
             }
 
-        sol = []
         res = []
+        sol = []
+
         n = len(digits)
-        
-        if n == 0: return []
 
         def backtrack(i):
             if len(sol) == n:
-                res.append(''.join(sol[:]))
-                return
-
+                return res.append(''.join(sol[:]))
+            
             for x in phone_board[digits[i]]:
                 sol.append(x)
                 backtrack(i+1)
@@ -29,4 +27,3 @@ class Solution:
         
         backtrack(0)
         return res
-
