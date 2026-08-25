@@ -59,6 +59,7 @@ A collection of LeetCode questions
 | [0239-sliding-window-maximum](https://github.com/AdityaC19/Algo-Quest/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/AdityaC19/Algo-Quest/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0253-meeting-rooms-ii) |
+| [0286-walls-and-gates](https://github.com/AdityaC19/Algo-Quest/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaC19/Algo-Quest/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdityaC19/Algo-Quest/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions
 | [0130-surrounded-regions](https://github.com/AdityaC19/Algo-Quest/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/AdityaC19/Algo-Quest/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/AdityaC19/Algo-Quest/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/AdityaC19/Algo-Quest/tree/master/0286-walls-and-gates) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaC19/Algo-Quest/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/AdityaC19/Algo-Quest/tree/master/0695-max-area-of-island) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/AdityaC19/Algo-Quest/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaC19/Algo-Quest/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AdityaC19/Algo-Quest/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/AdityaC19/Algo-Quest/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/AdityaC19/Algo-Quest/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaC19/Algo-Quest/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AdityaC19/Algo-Quest/tree/master/0329-longest-increasing-path-in-a-matrix) |
