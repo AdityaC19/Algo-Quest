@@ -3,36 +3,29 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
+        
         m, n = len(board), len(board[0])
-        dont_touch = set()
+
         q = deque()
+        seen = set()
 
-        # add perimeter Os in safe set
         for i in range(m):
             for j in range(n):
-                if i ==0 or i == m-1 or j == 0 or j == n-1:
+                if i ==0 or j == 0 or i == m-1 or j ==n-1:
                     if board[i][j] == 'O':
-                        dont_touch.add((i, j))
                         q.append((i,j))
-
-        # use BFS to reach for other Os from perimeter
+                        seen.add((i,j))
+        
         while q:
-            i, j = q.popleft()
-            for r, c in [(i+1, j), (i, j+1), (i-1, j), (i, j-1)]:
-                if 0 <= r < m and 0 <= c < n:
-                    if (r,c) not in dont_touch and board[r][c] == 'O':
+            for _ in range(len(q)):
+                i, j = q.popleft()
+                for r,c in [(i+1, j), (i, j+1), (i-1, j), (i, j-1)]:
+                    if 0 <= r < m and 0 <= c < n and (r,c) not in seen and board[r][c] == 'O':
+                        seen.add((r,c))
                         q.append((r,c))
-                        dont_touch.add((r,c))
-
-        # turn rest of the Os into Xs which are not in safe set
+        
         for i in range(m):
             for j in range(n):
-                if (i,j) not in dont_touch and board[i][j] == 'O':
+                if (i,j) not in seen and board[i][j] == 'O':
                     board[i][j] = 'X'
-
-
-                
-        
-
-        
 
