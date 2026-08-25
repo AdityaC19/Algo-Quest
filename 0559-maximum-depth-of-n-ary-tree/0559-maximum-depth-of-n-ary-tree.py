@@ -8,18 +8,32 @@ class Node:
 
 class Solution:
     def maxDepth(self, root: 'Node') -> int:
+        if not root:
+            return 0
+        
+        q = deque([root])
+        depth = 0
 
-        def dfs(node):
-            maxDepth =0
+        while q:
+            depth += 1
+            for _ in range(len(q)):
+                node = q.popleft()
+                for child in node.children:
+                    if child:
+                        q.append(child)
+                
 
-            if not node:
-                return 0
+        return depth
+
+
+            # maxDepth =0
+
+            # if not root:
+            #     return 0
             
-            for child in node.children:
-                depth = dfs(child)
-                maxDepth = max(maxDepth, depth)
+            # for child in root.children:
+            #     depth = self.maxDepth(child)
+            #     maxDepth = max(maxDepth, depth)
 
-            return 1 + maxDepth    
-
-        return dfs(root)
+            # return 1 + maxDepth    
        
