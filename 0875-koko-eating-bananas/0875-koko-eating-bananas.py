@@ -1,5 +1,7 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        n = len(piles)
+
         def k_works(k):
             hours = 0
             for pile in piles:
@@ -7,16 +9,15 @@ class Solution:
             
             return hours <= h
         
-        l = 1
+        l = 1 
         r = max(piles)
 
         while l < r:
-            m = l + (r-l)//2
-
+            m = (l+r) // 2
             if k_works(m):
-                r = m 
+                r = m
             else:
-                l = m + 1
+                l = m+ 1
         
         return l
         
