@@ -1,11 +1,11 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        n = len(strs[0])
         strs.sort()
+        n = len(strs[0])
 
         for s in strs:
-            n = min(len(s), n)
-
+            n = min(n, len(s))
+        
         ans = []
         for i in range(n):
             if strs[0][i] != strs[-1][i]:
@@ -13,8 +13,6 @@ class Solution:
             else:
                 ans.append(strs[0][i])
         
-        return "".join(ans)
-
-
+        return ''.join(ans)
 
         
