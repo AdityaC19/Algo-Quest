@@ -13,9 +13,9 @@ class Solution:
         
         d = ListNode()
         curr = d
-
+        
         while min_heap:
-            val, i, node = heapq.heappop(min_heap)
+            val , i, node = heapq.heappop(min_heap)
             curr.next = node
             curr = node
             node = node.next
@@ -24,4 +24,4 @@ class Solution:
         
         return d.next
 
-        
+
